@@ -1,0 +1,430 @@
+[
+  {
+    "id": "F01",
+    "domain": "신론",
+    "prompt": "하나님을 한 분으로 고백할 때 무엇을 의미하는가?",
+    "selection_mode": "single",
+    "choices": [
+      {
+        "id": "F01-1",
+        "text": "하나의 신적 본질 안에 실제로 구별되는 성부·성자·성령이 계신다."
+      },
+      {
+        "id": "F01-2",
+        "text": "성부·성자·성령은 한 인격의 서로 다른 표현이다."
+      },
+      {
+        "id": "F01-3",
+        "text": "성부는 한 분의 유일한 하나님이시고 성자는 최초의 피조물이다."
+      },
+      {
+        "id": "F01-4",
+        "text": "세 위격은 각각 독립된 신이다."
+      },
+      {
+        "id": "F01-5",
+        "text": "이 교리의 의미를 아직 제대로 이해하지 못했다."
+      }
+    ],
+    "source_ids": [
+      "NICENE381",
+      "CCC_TRINITY"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "optional": true,
+    "allow_unknown": true
+  },
+  {
+    "id": "F02",
+    "domain": "신론",
+    "prompt": "하나님의 섭리와 인간의 선택에 관하여 함께 긍정하는 내용을 골라 주세요.",
+    "selection_mode": "multi",
+    "choices": [
+      {
+        "id": "F02-1",
+        "text": "하나님은 모든 일에 궁극적인 주권을 가지신다."
+      },
+      {
+        "id": "F02-2",
+        "text": "인간의 선택에는 다른 선택을 할 실제 가능성이 존재한다."
+      },
+      {
+        "id": "F02-3",
+        "text": "하나님은 다양한 조건에서 인간이 자유롭게 내릴 결정을 아신다."
+      },
+      {
+        "id": "F02-4",
+        "text": "아직 결정되지 않은 자유로운 미래는 열린 가능성으로 남아 있다."
+      },
+      {
+        "id": "F02-5",
+        "text": "하나님이 모든 일을 작정하셨지만 인간에게도 책임이 있다."
+      }
+    ],
+    "source_ids": [
+      "WCF",
+      "METHODIST_ART"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "optional": true,
+    "allow_unknown": true
+  },
+  {
+    "id": "F03",
+    "domain": "인간론",
+    "prompt": "죄인의 믿음과 거듭남의 순서를 가장 가깝게 설명한다면?",
+    "selection_mode": "single",
+    "choices": [
+      {
+        "id": "F03-1",
+        "text": "하나님이 거듭나게 하시기에 믿음이 생겨난다."
+      },
+      {
+        "id": "F03-2",
+        "text": "하나님의 은혜가 먼저 역사하고 인간은 믿음으로 협력한다."
+      },
+      {
+        "id": "F03-3",
+        "text": "하나님의 선행은총이 믿음으로 응답할 능력을 회복한다."
+      },
+      {
+        "id": "F03-4",
+        "text": "인간은 특별한 선행은총이 없어도 본래적 능력으로 믿음을 시작할 수 있다."
+      },
+      {
+        "id": "F03-5",
+        "text": "순서를 교리적으로 규정하기 어렵다."
+      }
+    ],
+    "source_ids": [
+      "WCF",
+      "METHODIST_ART",
+      "NAZ_ART"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "optional": true,
+    "allow_unknown": true
+  },
+  {
+    "id": "F04",
+    "domain": "인간론",
+    "prompt": "성화의 설명 가운데 함께 인정하는 것을 모두 골라 주세요.",
+    "selection_mode": "multi",
+    "choices": [
+      {
+        "id": "F04-1",
+        "text": "거룩함은 이 땅에서 평생 자라며 죄와 싸우는 과정을 포함한다."
+      },
+      {
+        "id": "F04-2",
+        "text": "하나님을 향한 온전한 사랑의 마음이 은혜로 실제로 가능하다."
+      },
+      {
+        "id": "F04-3",
+        "text": "그리스도와의 연합 및 하나님의 생명에 참여하는 관점이 중요하다."
+      },
+      {
+        "id": "F04-4",
+        "text": "예배와 성례와 영적 훈련을 통해 덕이 성장한다."
+      },
+      {
+        "id": "F04-5",
+        "text": "한 번 거룩함을 경험하면 이후에는 죄를 지을 수 없게 된다."
+      }
+    ],
+    "source_ids": [
+      "NAZ_ART",
+      "OCA_THEOSIS",
+      "WCF"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "optional": true,
+    "allow_unknown": true
+  },
+  {
+    "id": "F05",
+    "domain": "기독론",
+    "prompt": "십자가의 구원 의미 가운데 긍정하는 설명을 모두 선택해 주세요.",
+    "selection_mode": "multi",
+    "choices": [
+      {
+        "id": "F05-1",
+        "text": "예수는 죄인이 받을 형벌을 대신 담당하셨다."
+      },
+      {
+        "id": "F05-2",
+        "text": "예수의 순종과 희생으로 하나님과 인간의 관계가 회복되었다."
+      },
+      {
+        "id": "F05-3",
+        "text": "예수는 죄와 사망과 악의 권세를 이기셨다."
+      },
+      {
+        "id": "F05-4",
+        "text": "십자가에 나타난 사랑은 인간을 회개와 새 삶으로 이끈다."
+      },
+      {
+        "id": "F05-5",
+        "text": "그리스도는 타락한 인간성을 대표하여 순종하셨다."
+      }
+    ],
+    "source_ids": [
+      "WCF",
+      "METHODIST_ART",
+      "OCA_THEOSIS"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "optional": true,
+    "allow_unknown": true
+  },
+  {
+    "id": "F06",
+    "domain": "기독론",
+    "prompt": "예수의 신성과 인성을 함께 말할 때 가장 가까운 설명은?",
+    "selection_mode": "single",
+    "choices": [
+      {
+        "id": "F06-1",
+        "text": "참 하나님과 참 인간의 두 본성이 한 위격 안에서 혼합과 분리 없이 연합한다."
+      },
+      {
+        "id": "F06-2",
+        "text": "성육신하신 말씀의 하나 된 실재를 강조하면서 신성과 인성의 완전함을 긍정한다."
+      },
+      {
+        "id": "F06-3",
+        "text": "예수의 신성과 인성을 고백하지만 철학적인 결합의 정의는 유보한다."
+      },
+      {
+        "id": "F06-4",
+        "text": "예수는 신적 본질을 가진 존재가 아니라 하나님께 영감받은 인간이다."
+      },
+      {
+        "id": "F06-5",
+        "text": "문항의 전문 용어가 아직 어렵다."
+      }
+    ],
+    "source_ids": [
+      "CHALCEDON451",
+      "NICENE381"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "optional": true,
+    "allow_unknown": true
+  },
+  {
+    "id": "F07",
+    "domain": "성령론",
+    "prompt": "성령세례와 중생을 설명한다면 가장 가까운 것은?",
+    "selection_mode": "single",
+    "choices": [
+      {
+        "id": "F07-1",
+        "text": "성령세례는 거듭나는 모든 신자에게 이미 주어진다."
+      },
+      {
+        "id": "F07-2",
+        "text": "모든 신자는 중생 때 성령을 받으며 이후 충만의 체험은 다양하다."
+      },
+      {
+        "id": "F07-3",
+        "text": "중생 이후 사역의 능력을 위한 구별된 성령세례가 있다."
+      },
+      {
+        "id": "F07-4",
+        "text": "중생 이후 성령세례가 있으며 그 최초의 증거는 방언이다."
+      },
+      {
+        "id": "F07-5",
+        "text": "아직 입장을 형성하지 못했다."
+      }
+    ],
+    "source_ids": [
+      "NAZ_ART",
+      "AG_SFT"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "optional": true,
+    "allow_unknown": true
+  },
+  {
+    "id": "F08",
+    "domain": "성령론",
+    "prompt": "다음 가운데 함께 동의할 수 있는 설명을 고르세요.",
+    "selection_mode": "multi",
+    "choices": [
+      {
+        "id": "F08-1",
+        "text": "예언·치유·방언과 같은 은사는 현재도 가능하다."
+      },
+      {
+        "id": "F08-2",
+        "text": "은사에 대한 주장은 공동체에서 검증해야 한다."
+      },
+      {
+        "id": "F08-3",
+        "text": "특별한 계시를 주장하는 말도 성경의 가르침을 대체할 수 없다."
+      },
+      {
+        "id": "F08-4",
+        "text": "방언이 모든 신자에게 반드시 필요한 것은 아니다."
+      },
+      {
+        "id": "F08-5",
+        "text": "현대의 특별한 예언은 성경의 가르침을 수정할 수 있다."
+      }
+    ],
+    "source_ids": [
+      "AG_SFT",
+      "WCF"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "optional": true,
+    "allow_unknown": true
+  },
+  {
+    "id": "F09",
+    "domain": "교회론",
+    "prompt": "세례 대상과 방식에 관하여 긍정하는 진술을 고르세요.",
+    "selection_mode": "multi",
+    "choices": [
+      {
+        "id": "F09-1",
+        "text": "믿는 가정의 영아에게도 세례를 베풀 수 있다."
+      },
+      {
+        "id": "F09-2",
+        "text": "세례는 반드시 자기 믿음을 고백한 뒤에 베풀어야 한다."
+      },
+      {
+        "id": "F09-3",
+        "text": "세례는 은총의 실제적인 수단이 될 수 있다."
+      },
+      {
+        "id": "F09-4",
+        "text": "세례는 교회 공동체에 속함을 드러내는 표지다."
+      },
+      {
+        "id": "F09-5",
+        "text": "침례라는 방법이 세례의 본질적 필수 조건이다."
+      }
+    ],
+    "source_ids": [
+      "WCF",
+      "METHODIST_ART",
+      "BAPTIST_BFM",
+      "CCC_BAPTISM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "optional": true,
+    "allow_unknown": true
+  },
+  {
+    "id": "F10",
+    "domain": "교회론",
+    "prompt": "성찬에서 그리스도가 임재하시는 방식을 어떻게 이해하는가?",
+    "selection_mode": "single",
+    "choices": [
+      {
+        "id": "F10-1",
+        "text": "성찬의 실체가 그리스도의 몸과 피로 변화한다."
+      },
+      {
+        "id": "F10-2",
+        "text": "성찬의 빵과 포도주와 함께 그리스도의 몸과 피가 참되게 주어진다."
+      },
+      {
+        "id": "F10-3",
+        "text": "신자는 성령과 믿음을 통해 성찬에서 그리스도에게 실제 참여한다."
+      },
+      {
+        "id": "F10-4",
+        "text": "성찬은 그리스도의 죽음을 기억하는 상징적 공동체 행위다."
+      },
+      {
+        "id": "F10-5",
+        "text": "성찬에서 그리스도의 특별한 임재를 말하지만 방식은 판단을 유보한다."
+      }
+    ],
+    "source_ids": [
+      "METHODIST_ART",
+      "WCF",
+      "LUTHER_BOC",
+      "CCC_EUCHARIST",
+      "OCA_EUCHARIST"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "optional": true,
+    "allow_unknown": true
+  },
+  {
+    "id": "F11",
+    "domain": "종말론",
+    "prompt": "재림과 천년왕국에 관해 가장 가까운 설명은 무엇인가?",
+    "selection_mode": "single",
+    "choices": [
+      {
+        "id": "F11-1",
+        "text": "천 년은 현재 그리스도의 통치를 상징적으로 나타낸다."
+      },
+      {
+        "id": "F11-2",
+        "text": "복음의 역사적 진전이 있은 뒤 그리스도의 재림이 온다."
+      },
+      {
+        "id": "F11-3",
+        "text": "그리스도께서 재림하신 뒤 천년왕국이 시작된다."
+      },
+      {
+        "id": "F11-4",
+        "text": "이스라엘의 미래 약속이 지상 천년왕국에서 구별되어 성취된다."
+      },
+      {
+        "id": "F11-5",
+        "text": "천년왕국에 대한 입장을 아직 정하지 못했다."
+      }
+    ],
+    "source_ids": [
+      "WCF",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "optional": true,
+    "allow_unknown": true
+  },
+  {
+    "id": "F12",
+    "domain": "종말론",
+    "prompt": "마지막 심판 이후 인간의 운명에 관해 가장 가까운 입장은?",
+    "selection_mode": "single",
+    "choices": [
+      {
+        "id": "F12-1",
+        "text": "구원받지 못한 사람에게 영원한 의식적 형벌이 남는다."
+      },
+      {
+        "id": "F12-2",
+        "text": "구원받지 못한 사람은 최후에 소멸한다."
+      },
+      {
+        "id": "F12-3",
+        "text": "모든 사람이 구원받기를 희망하지만 최종 결과를 단정하지 않는다."
+      },
+      {
+        "id": "F12-4",
+        "text": "하나님은 종국에 모든 사람을 실제로 구원하신다."
+      },
+      {
+        "id": "F12-5",
+        "text": "여러 본문의 해석 때문에 아직 판단을 유보한다."
+      }
+    ],
+    "source_ids": [
+      "BAPTIST_BFM",
+      "WCF"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "optional": true,
+    "allow_unknown": true
+  }
+]

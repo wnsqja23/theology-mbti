@@ -1,0 +1,122 @@
+[
+  {
+    "id": "K01",
+    "related_item_ids": [
+      "K01"
+    ],
+    "source_id": "NICENE381",
+    "relation": "historical_creed_comparison",
+    "trigger": "clear_disagreement_in_two_semantically_distinct_items_only",
+    "not_for": "personal_heresy_label"
+  },
+  {
+    "id": "K02",
+    "related_item_ids": [
+      "K02"
+    ],
+    "source_id": "NICENE381",
+    "relation": "historical_creed_comparison",
+    "trigger": "clear_disagreement_in_two_semantically_distinct_items_only",
+    "not_for": "personal_heresy_label"
+  },
+  {
+    "id": "K03",
+    "related_item_ids": [
+      "K03"
+    ],
+    "source_id": "NICENE381",
+    "relation": "historical_creed_comparison",
+    "trigger": "clear_disagreement_in_two_semantically_distinct_items_only",
+    "not_for": "personal_heresy_label"
+  },
+  {
+    "id": "K04",
+    "related_item_ids": [
+      "K04"
+    ],
+    "source_id": "NICENE381",
+    "relation": "historical_creed_comparison",
+    "trigger": "clear_disagreement_in_two_semantically_distinct_items_only",
+    "not_for": "personal_heresy_label"
+  },
+  {
+    "id": "K05",
+    "related_item_ids": [
+      "K05"
+    ],
+    "source_id": "NICENE381",
+    "relation": "historical_creed_comparison",
+    "trigger": "clear_disagreement_in_two_semantically_distinct_items_only",
+    "not_for": "personal_heresy_label"
+  },
+  {
+    "id": "K06",
+    "related_item_ids": [
+      "K06"
+    ],
+    "source_id": "CHALCEDON451",
+    "relation": "historical_creed_comparison",
+    "trigger": "clear_disagreement_in_two_semantically_distinct_items_only",
+    "not_for": "personal_heresy_label"
+  },
+  {
+    "id": "K07",
+    "related_item_ids": [
+      "K07"
+    ],
+    "source_id": "CHALCEDON451",
+    "relation": "historical_creed_comparison",
+    "trigger": "clear_disagreement_in_two_semantically_distinct_items_only",
+    "not_for": "personal_heresy_label"
+  },
+  {
+    "id": "K08",
+    "related_item_ids": [
+      "K08"
+    ],
+    "source_id": "NICENE381",
+    "relation": "historical_creed_comparison",
+    "trigger": "clear_disagreement_in_two_semantically_distinct_items_only",
+    "not_for": "personal_heresy_label"
+  },
+  {
+    "id": "K09",
+    "related_item_ids": [
+      "K09"
+    ],
+    "source_id": "NICENE381",
+    "relation": "historical_creed_comparison",
+    "trigger": "clear_disagreement_in_two_semantically_distinct_items_only",
+    "not_for": "personal_heresy_label"
+  },
+  {
+    "id": "K10",
+    "related_item_ids": [
+      "K10"
+    ],
+    "source_id": "NICENE381",
+    "relation": "historical_creed_comparison",
+    "trigger": "clear_disagreement_in_two_semantically_distinct_items_only",
+    "not_for": "personal_heresy_label"
+  },
+  {
+    "id": "K11",
+    "related_item_ids": [
+      "K11"
+    ],
+    "source_id": "NICENE381",
+    "relation": "historical_creed_comparison",
+    "trigger": "clear_disagreement_in_two_semantically_distinct_items_only",
+    "not_for": "personal_heresy_label"
+  },
+  {
+    "id": "K12",
+    "related_item_ids": [
+      "K12"
+    ],
+    "source_id": "NICENE381",
+    "relation": "historical_creed_comparison",
+    "trigger": "clear_disagreement_in_two_semantically_distinct_items_only",
+    "not_for": "personal_heresy_label"
+  }
+]

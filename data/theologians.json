@@ -1,0 +1,92 @@
+[
+  {
+    "id": "augustine",
+    "name_ko": "아우구스티누스",
+    "works_to_verify": "Confessions; On Nature and Grace; On the Trinity",
+    "claim_stances": [],
+    "status": "unverified_primary_text",
+    "can_auto_rank": false,
+    "disclaimer": "문장·원전 구절과 시대별 입장을 직접 검증하기 전까지 자동 유사도 표시 금지."
+  },
+  {
+    "id": "thomas_aquinas",
+    "name_ko": "토마스 아퀴나스",
+    "works_to_verify": "Summa Theologiae",
+    "claim_stances": [],
+    "status": "unverified_primary_text",
+    "can_auto_rank": false,
+    "disclaimer": "문장·원전 구절과 시대별 입장을 직접 검증하기 전까지 자동 유사도 표시 금지."
+  },
+  {
+    "id": "martin_luther",
+    "name_ko": "마르틴 루터",
+    "works_to_verify": "The Bondage of the Will; Lectures on Galatians",
+    "claim_stances": [],
+    "status": "unverified_primary_text",
+    "can_auto_rank": false,
+    "disclaimer": "문장·원전 구절과 시대별 입장을 직접 검증하기 전까지 자동 유사도 표시 금지."
+  },
+  {
+    "id": "john_calvin",
+    "name_ko": "장 칼뱅",
+    "works_to_verify": "Institutes of the Christian Religion",
+    "claim_stances": [],
+    "status": "unverified_primary_text",
+    "can_auto_rank": false,
+    "disclaimer": "문장·원전 구절과 시대별 입장을 직접 검증하기 전까지 자동 유사도 표시 금지."
+  },
+  {
+    "id": "jacobus_arminius",
+    "name_ko": "야코부스 아르미니우스",
+    "works_to_verify": "Declaration of Sentiments; Works",
+    "claim_stances": [],
+    "status": "unverified_primary_text",
+    "can_auto_rank": false,
+    "disclaimer": "문장·원전 구절과 시대별 입장을 직접 검증하기 전까지 자동 유사도 표시 금지."
+  },
+  {
+    "id": "john_wesley",
+    "name_ko": "존 웨슬리",
+    "works_to_verify": "A Plain Account of Christian Perfection; Sermons",
+    "claim_stances": [],
+    "status": "unverified_primary_text",
+    "can_auto_rank": false,
+    "disclaimer": "문장·원전 구절과 시대별 입장을 직접 검증하기 전까지 자동 유사도 표시 금지."
+  },
+  {
+    "id": "karl_barth",
+    "name_ko": "카를 바르트",
+    "works_to_verify": "Church Dogmatics",
+    "claim_stances": [],
+    "status": "unverified_primary_text",
+    "can_auto_rank": false,
+    "disclaimer": "문장·원전 구절과 시대별 입장을 직접 검증하기 전까지 자동 유사도 표시 금지."
+  },
+  {
+    "id": "john_zizioulas",
+    "name_ko": "요안니스 지지울라스",
+    "works_to_verify": "Being as Communion",
+    "claim_stances": [],
+    "status": "unverified_primary_text",
+    "can_auto_rank": false,
+    "disclaimer": "문장·원전 구절과 시대별 입장을 직접 검증하기 전까지 자동 유사도 표시 금지."
+  },
+  {
+    "id": "jurgen_moltmann",
+    "name_ko": "위르겐 몰트만",
+    "works_to_verify": "The Crucified God; Theology of Hope",
+    "claim_stances": [],
+    "status": "unverified_primary_text",
+    "can_auto_rank": false,
+    "disclaimer": "문장·원전 구절과 시대별 입장을 직접 검증하기 전까지 자동 유사도 표시 금지."
+  },
+  {
+    "id": "nt_wright",
+    "name_ko": "N. T. 라이트",
+    "works_to_verify": "The Resurrection of the Son of God",
+    "claim_stances": [],
+    "status": "unverified_primary_text",
+    "can_auto_rank": false,
+    "disclaimer": "문장·원전 구절과 시대별 입장을 직접 검증하기 전까지 자동 유사도 표시 금지."
+  }
+]

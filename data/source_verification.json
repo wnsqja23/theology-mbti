@@ -1,0 +1,679 @@
+{
+  "version": "1.0",
+  "verified_at": "2026-10-20",
+  "methodology": "공식 웹 문서·공식 재현 원전의 본문 및 식별 조항을 사람이 읽을 수 있는 웹 도구로 확인. AI 보조 문헌 감사이며 신학 전문가 승인·측정학 검증 아님. 시드 파일은 변경하지 않음.",
+  "sources": [
+    {
+      "source_id": "NICENE381",
+      "status": "verified_clause",
+      "url": "https://www.oikoumene.org/resources/documents/nicene-constantinopolitan-creed",
+      "verified_url": "https://www.oikoumene.org/resources/documents/the-eucharistic-liturgy-of-lima",
+      "issuing_body": "World Council of Churches",
+      "title": "니케아-콘스탄티노폴리스 신조(381)",
+      "edition_listed": "381 (WCC 2025 edition)",
+      "verified_at": "2026-10-20",
+      "reviewer": "AI-assisted documentary audit; no human expert sign-off",
+      "primary_or_secondary": "primary_text_or_official_reproduction",
+      "clauses": [
+        {
+          "paragraph": "Lima §15 — Son",
+          "item_ids": [
+            "K03",
+            "K05"
+          ],
+          "claim_ids": [
+            "creedal.k03",
+            "creedal.k05"
+          ],
+          "relation": "supports",
+          "caveat": "문서 확인이며 문항·전통 매핑의 전문 검수 승인은 아님."
+        },
+        {
+          "paragraph": "Lima §15 — Spirit",
+          "item_ids": [
+            "K04"
+          ],
+          "claim_ids": [
+            "creedal.k04"
+          ],
+          "relation": "supports",
+          "caveat": "문서 확인이며 문항·전통 매핑의 전문 검수 승인은 아님."
+        },
+        {
+          "paragraph": "Lima §15 — death, resurrection, return",
+          "item_ids": [
+            "K08",
+            "K10"
+          ],
+          "claim_ids": [
+            "creedal.k08",
+            "creedal.k10"
+          ],
+          "relation": "supports",
+          "caveat": "문서 확인이며 문항·전통 매핑의 전문 검수 승인은 아님."
+        },
+        {
+          "paragraph": "Lima §15 — resurrection of the dead",
+          "item_ids": [
+            "K11"
+          ],
+          "claim_ids": [
+            "creedal.k11"
+          ],
+          "relation": "supports",
+          "caveat": "문서 확인이며 문항·전통 매핑의 전문 검수 승인은 아님."
+        },
+        {
+          "paragraph": "Order of Worship IV — church",
+          "item_ids": [
+            "K12"
+          ],
+          "claim_ids": [
+            "creedal.k12"
+          ],
+          "relation": "supports",
+          "caveat": "문서 확인이며 문항·전통 매핑의 전문 검수 승인은 아님."
+        }
+      ],
+      "caveat": "2025 문서 소개와 별도 WCC 공식 예전의 신조 재현을 대조했다. Lima 웹판 교회 문장에 one이 빠져 K12는 Order of Worship IV로 확인한다. 381 원어 비평판 검증과 다르다."
+    },
+    {
+      "source_id": "CHALCEDON451",
+      "status": "verified_clause",
+      "url": "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/artcile_3.html",
+      "verified_url": "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/artcile_3.html",
+      "issuing_body": "Catholic Church / Vatican",
+      "title": "칼케돈 신앙 정의(451), 가톨릭 교리서 §467 인용",
+      "edition_listed": "451/1992",
+      "verified_at": "2026-10-20",
+      "reviewer": "AI-assisted documentary audit; no human expert sign-off",
+      "primary_or_secondary": "primary_text_or_official_reproduction",
+      "clauses": [
+        {
+          "paragraph": "CCC §467",
+          "item_ids": [
+            "K06",
+            "K07",
+            "C03-01"
+          ],
+          "claim_ids": [
+            "creedal.k06",
+            "creedal.k07",
+            "C03.claim1"
+          ],
+          "relation": "supports",
+          "caveat": "문서 확인이며 문항·전통 매핑의 전문 검수 승인은 아님."
+        }
+      ],
+      "caveat": "공식 가톨릭 교리서에 인용된 451 정의이다. 후대 교리서 해설과 정의 자체를 구분한다. C02-01의 의지 관련 언어는 추가 조항 검토가 필요하다."
+    },
+    {
+      "source_id": "CCC_TRINITY",
+      "status": "verified_clause",
+      "url": "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_one/article_1/paragraph_2_the_father.index.html",
+      "verified_url": "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_one/article_1/paragraph_2_the_father.index.html",
+      "issuing_body": "Holy See",
+      "title": "가톨릭 교리서 §253–255",
+      "edition_listed": "1992",
+      "verified_at": "2026-10-20",
+      "reviewer": "AI-assisted documentary audit; no human expert sign-off",
+      "primary_or_secondary": "primary_text_or_official_reproduction",
+      "clauses": [
+        {
+          "paragraph": "CCC §§253–255",
+          "item_ids": [
+            "K01",
+            "K02",
+            "G01-01"
+          ],
+          "claim_ids": [
+            "creedal.k01",
+            "creedal.k02",
+            "G01.claim1"
+          ],
+          "relation": "supports",
+          "caveat": "문서 확인이며 문항·전통 매핑의 전문 검수 승인은 아님."
+        },
+        {
+          "paragraph": "CCC §254",
+          "item_ids": [
+            "G01-02"
+          ],
+          "claim_ids": [
+            "G01.claim2"
+          ],
+          "relation": "opposes",
+          "caveat": "문서 확인이며 문항·전통 매핑의 전문 검수 승인은 아님."
+        },
+        {
+          "paragraph": "CCC §253",
+          "item_ids": [
+            "G01-03"
+          ],
+          "claim_ids": [
+            "G01.claim3"
+          ],
+          "relation": "opposes",
+          "caveat": "문서 확인이며 문항·전통 매핑의 전문 검수 승인은 아님."
+        }
+      ],
+      "caveat": "삼위의 일체성과 실제 구별을 설명하는 가톨릭 공식 해설이다. 381 신조의 직접 문구와 동일시하지 않는다."
+    },
+    {
+      "source_id": "WCF",
+      "status": "verified_clause",
+      "url": "https://wts.edu/wcf",
+      "verified_url": "https://wts.edu/wcf",
+      "issuing_body": "Westminster Theological Seminary (host)",
+      "title": "웨스트민스터 신앙고백",
+      "edition_listed": "1646",
+      "verified_at": "2026-10-20",
+      "reviewer": "AI-assisted documentary audit; no human expert sign-off",
+      "primary_or_secondary": "primary_text_or_official_reproduction",
+      "clauses": [
+        {
+          "paragraph": "Chapter 3 §1",
+          "item_ids": [
+            "G05-03"
+          ],
+          "claim_ids": [
+            "G05.claim3"
+          ],
+          "relation": "supports",
+          "caveat": "문서 확인이며 문항·전통 매핑의 전문 검수 승인은 아님."
+        },
+        {
+          "paragraph": "Chapter 28 §4",
+          "item_ids": [
+            "E03-01"
+          ],
+          "claim_ids": [
+            "E03.claim1"
+          ],
+          "relation": "supports",
+          "caveat": "문서 확인이며 문항·전통 매핑의 전문 검수 승인은 아님."
+        },
+        {
+          "paragraph": "Chapter 28 §§5–6",
+          "item_ids": [
+            "E04-01"
+          ],
+          "claim_ids": [
+            "E04.claim1"
+          ],
+          "relation": "context",
+          "caveat": "세례와 구원을 기계적으로 동일시하지 않는 문맥을 함께 읽는다."
+        }
+      ],
+      "caveat": "WTS가 제공하는 신앙고백 원문이다. 특정 현대 교단의 채택 범위와 수정판까지 입증하지 않으며 기존 9개 stance는 승인하지 않았다."
+    },
+    {
+      "source_id": "METHODIST_ART",
+      "status": "verified_clause",
+      "url": "https://www.umc.org/en/content/articles-of-religion",
+      "verified_url": "https://www.umc.org/en/content/articles-of-religion",
+      "issuing_body": "United Methodist Church",
+      "title": "감리교 종교조항",
+      "edition_listed": "2020/2024",
+      "verified_at": "2026-10-20",
+      "reviewer": "AI-assisted documentary audit; no human expert sign-off",
+      "primary_or_secondary": "primary_text_or_official_reproduction",
+      "clauses": [
+        {
+          "paragraph": "Article II",
+          "item_ids": [
+            "C01-01",
+            "C02-01"
+          ],
+          "claim_ids": [
+            "C01.claim1",
+            "C02.claim1"
+          ],
+          "relation": "context",
+          "caveat": "문서 확인이며 문항·전통 매핑의 전문 검수 승인은 아님."
+        },
+        {
+          "paragraph": "Article III",
+          "item_ids": [
+            "K09",
+            "C06-01"
+          ],
+          "claim_ids": [
+            "creedal.k09",
+            "C06.claim1"
+          ],
+          "relation": "supports",
+          "caveat": "몸의 부활은 명시되지만 이 조항은 감리교 문서이며 381 신조 문장 자체가 아니다."
+        }
+      ],
+      "caveat": "공식 UMC 종교조항에서 신성과 인성 및 몸의 부활을 확인했다. 다른 감리교·한국 교단의 공식 입장 전체로 확대하지 않는다."
+    },
+    {
+      "source_id": "NAZ_ART",
+      "status": "verified_clause",
+      "url": "https://nazarene.org/what-we-believe/",
+      "verified_url": "https://nazarene.org/what-we-believe/",
+      "issuing_body": "Church of the Nazarene",
+      "title": "나사렛교회 신앙조항",
+      "edition_listed": "2023",
+      "verified_at": "2026-10-20",
+      "reviewer": "AI-assisted documentary audit; no human expert sign-off",
+      "primary_or_secondary": "primary_text_or_official_reproduction",
+      "clauses": [
+        {
+          "paragraph": "Christian Holiness and Entire Sanctification, §10 and §10.1",
+          "item_ids": [
+            "H06-01"
+          ],
+          "claim_ids": [
+            "H06.claim1"
+          ],
+          "relation": "supports",
+          "caveat": "문서 확인이며 문항·전통 매핑의 전문 검수 승인은 아님."
+        },
+        {
+          "paragraph": "§10.1",
+          "item_ids": [
+            "H06-02"
+          ],
+          "claim_ids": [
+            "H06.claim2"
+          ],
+          "relation": "partial",
+          "caveat": "계속 성장한다는 내용과 평생 죄와의 싸움이라는 문항 전체는 동치가 아니다."
+        }
+      ],
+      "caveat": "온전한 사랑과 지속적인 성장은 함께 제시된다. 2023이라는 시드 판본과 현재 웹 본문 판본의 일치 및 한국 성결교 공식 문서 여부는 별도 검토 대상이다."
+    },
+    {
+      "source_id": "BAPTIST_BFM",
+      "status": "verified_clause",
+      "url": "https://bfm.sbc.net/bfm2000/",
+      "verified_url": "https://bfm.sbc.net/bfm2000/",
+      "issuing_body": "Southern Baptist Convention",
+      "title": "Baptist Faith & Message",
+      "edition_listed": "2000",
+      "verified_at": "2026-10-20",
+      "reviewer": "AI-assisted documentary audit; no human expert sign-off",
+      "primary_or_secondary": "primary_text_or_official_reproduction",
+      "clauses": [
+        {
+          "paragraph": "Article VII",
+          "item_ids": [
+            "E03-02",
+            "E03-03"
+          ],
+          "claim_ids": [
+            "E03.claim2",
+            "E03.claim3"
+          ],
+          "relation": "supports",
+          "caveat": "문서 확인이며 문항·전통 매핑의 전문 검수 승인은 아님."
+        },
+        {
+          "paragraph": "Article VI",
+          "item_ids": [],
+          "claim_ids": [],
+          "relation": "context",
+          "caveat": "문서 확인이며 문항·전통 매핑의 전문 검수 승인은 아님."
+        }
+      ],
+      "caveat": "현재 BF&M 2000 페이지는 제 VI조가 2023-06-14 개정되었다고 표시한다. 시드의 2000 판본 표기만으로 원형과 동일하다고 가정하지 않는다."
+    },
+    {
+      "source_id": "AG_SFT",
+      "status": "verified_clause",
+      "url": "https://ag.org/Beliefs/Statement-of-Fundamental-truths",
+      "verified_url": "https://ag.org/Beliefs/Statement-of-Fundamental-truths",
+      "issuing_body": "Assemblies of God USA",
+      "title": "Statement of Fundamental Truths",
+      "edition_listed": "official current",
+      "verified_at": "2026-10-20",
+      "reviewer": "AI-assisted documentary audit; no human expert sign-off",
+      "primary_or_secondary": "primary_text_or_official_reproduction",
+      "clauses": [
+        {
+          "paragraph": "Article 7",
+          "item_ids": [
+            "P02-02"
+          ],
+          "claim_ids": [
+            "P02.claim2"
+          ],
+          "relation": "supports",
+          "caveat": "문서 확인이며 문항·전통 매핑의 전문 검수 승인은 아님."
+        },
+        {
+          "paragraph": "Article 8",
+          "item_ids": [
+            "P03-01"
+          ],
+          "claim_ids": [
+            "P03.claim1"
+          ],
+          "relation": "supports",
+          "caveat": "문서 확인이며 문항·전통 매핑의 전문 검수 승인은 아님."
+        }
+      ],
+      "caveat": "중생 이후의 구별된 경험과 방언 최초 증거를 별개 조항으로 확인했다. 최초 증거와 은사로서 방언의 용도 구분을 보존한다."
+    },
+    {
+      "source_id": "OCA_TRINITY",
+      "status": "verified_document",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/the-holy-trinity/the-doctrine-of-the-holy-trinity",
+      "verified_url": "https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/the-holy-trinity/the-doctrine-of-the-holy-trinity",
+      "issuing_body": "Orthodox Church in America",
+      "title": "The Doctrine of the Holy Trinity",
+      "edition_listed": "current",
+      "verified_at": "2026-10-20",
+      "reviewer": "AI-assisted documentary audit; no human expert sign-off",
+      "primary_or_secondary": "official_teaching",
+      "clauses": [],
+      "caveat": "해당 URL은 삼위일체 장의 도입이다. 연결된 성찬·교회론·신적 고난 등의 구체 주장 근거로 사용하기에는 조항 확인이 부족하다."
+    },
+    {
+      "source_id": "OCA_THEOSIS",
+      "status": "verified_clause",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/the-holy-trinity/the-holy-trinity-in-christian-life",
+      "verified_url": "https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/the-holy-trinity/the-holy-trinity-in-christian-life",
+      "issuing_body": "Orthodox Church in America",
+      "title": "Holy Trinity in Christian Life",
+      "edition_listed": "current",
+      "verified_at": "2026-10-20",
+      "reviewer": "AI-assisted documentary audit; no human expert sign-off",
+      "primary_or_secondary": "official_teaching",
+      "clauses": [
+        {
+          "paragraph": "The Holy Trinity in Christian Life — final two paragraphs",
+          "item_ids": [
+            "H01-03",
+            "H06-03"
+          ],
+          "claim_ids": [
+            "H01.claim3",
+            "H06.claim3"
+          ],
+          "relation": "supports",
+          "caveat": "문서 확인이며 문항·전통 매핑의 전문 검수 승인은 아님."
+        }
+      ],
+      "caveat": "은혜로 신적 생명에 참여하는 설명은 확인했다. 이 페이지가 H02의 원죄 모델 또는 C05의 각 속죄 모델을 입증하지는 않는다."
+    },
+    {
+      "source_id": "LUTHER_BOC",
+      "status": "verified_document",
+      "url": "https://thebookofconcord.org/",
+      "verified_url": "https://thebookofconcord.org/",
+      "issuing_body": "Book of Concord host",
+      "title": "Book of Concord (primary Lutheran confessions)",
+      "edition_listed": "1530+",
+      "verified_at": "2026-10-20",
+      "reviewer": "AI-assisted documentary audit; no human expert sign-off",
+      "primary_or_secondary": "primary_text_or_official_reproduction",
+      "clauses": [],
+      "caveat": "원문 모음의 목차 접근만 확인했다. 개별 신앙고백·조항 및 제공 사이트의 출판 권위는 추가 검수해야 한다."
+    },
+    {
+      "source_id": "APA_STANDARDS",
+      "status": "verified_document",
+      "url": "https://www.apa.org/science/programs/testing/standards",
+      "verified_url": "https://www.apa.org/science/programs/testing/standards",
+      "issuing_body": "AERA/APA/NCME",
+      "title": "Standards for Educational and Psychological Testing",
+      "edition_listed": "2014",
+      "verified_at": "2026-10-20",
+      "reviewer": "AI-assisted documentary audit; no human expert sign-off",
+      "primary_or_secondary": "assessment_guidance",
+      "clauses": [],
+      "caveat": "2014 Standards와 개정 작업을 안내하는 공식 소개를 확인했다. 이 앱의 타당도·신뢰도가 검증되었다는 근거가 아니다."
+    },
+    {
+      "source_id": "ITC_TECH",
+      "status": "verified_document",
+      "url": "https://www.intestcom.org/page/16",
+      "verified_url": "https://www.intestcom.org/upload/media-library/tba-guidelines-ver-11-july-2025-1754044782Z3vV9.pdf",
+      "issuing_body": "International Test Commission",
+      "title": "ITC/ATP Guidelines for Technology-Based Assessment",
+      "edition_listed": "2025",
+      "verified_at": "2026-10-20",
+      "reviewer": "AI-assisted documentary audit; no human expert sign-off",
+      "primary_or_secondary": "assessment_guidance",
+      "clauses": [],
+      "caveat": "원래 page/16 본문은 추출되지 않았다. 공식 2025-07 v1.1 PDF의 표지·서문·판본을 확인했으며 개별 수용 기준 인증은 수행하지 않았다."
+    },
+    {
+      "source_id": "ITC_USE",
+      "status": "verified_document",
+      "url": "https://www.intestcom.org/page/15",
+      "verified_url": "https://www.intestcom.org/files/guideline_test_use.pdf",
+      "issuing_body": "International Test Commission",
+      "title": "ITC Guidelines on Test Use",
+      "edition_listed": "current",
+      "verified_at": "2026-10-20",
+      "reviewer": "AI-assisted documentary audit; no human expert sign-off",
+      "primary_or_secondary": "assessment_guidance",
+      "clauses": [],
+      "caveat": "원래 page/15 본문은 추출되지 않았다. 공식 Guidelines on Test Use v1.2 PDF를 대체 자료로 확인했다."
+    },
+    {
+      "source_id": "ANGLICAN_39",
+      "status": "unresolved",
+      "url": "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/articles-religion",
+      "verified_url": "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/articles-religion",
+      "issuing_body": "The Church of England",
+      "title": "Articles of Religion (Thirty-Nine Articles)",
+      "edition_listed": "1562/1571 current official text",
+      "verified_at": "2026-10-20",
+      "reviewer": "AI-assisted documentary audit; no human expert sign-off",
+      "primary_or_secondary": "primary_text_or_official_reproduction",
+      "clauses": [],
+      "caveat": "직접 접근에서 오류가 발생했다. 이 실행에서는 조항 검증 완료로 처리하지 않는다."
+    },
+    {
+      "source_id": "CCC_EUCHARIST",
+      "status": "verified_clause",
+      "url": "https://www.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_en.html?plain=true",
+      "verified_url": "https://www.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_en.html?plain=true",
+      "issuing_body": "Holy See",
+      "title": "Compendium of the Catechism of the Catholic Church (Eucharist §283 / Catechism 1376–1377)",
+      "edition_listed": "2005",
+      "verified_at": "2026-10-20",
+      "reviewer": "AI-assisted documentary audit; no human expert sign-off",
+      "primary_or_secondary": "primary_text_or_official_reproduction",
+      "clauses": [
+        {
+          "paragraph": "Compendium §283 (references CCC §§1376–1377)",
+          "item_ids": [
+            "E05-01"
+          ],
+          "claim_ids": [
+            "E05.claim1"
+          ],
+          "relation": "supports",
+          "caveat": "문서 확인이며 문항·전통 매핑의 전문 검수 승인은 아님."
+        }
+      ],
+      "caveat": "요약 교리서 283의 실체변화 설명을 확인했다. 참조된 CCC 1376–1377의 본문을 별도로 확인한 것으로 표시하지 않는다."
+    },
+    {
+      "source_id": "CCC_BAPTISM",
+      "status": "verified_clause",
+      "url": "https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_1/iv_who_can_receive_baptism.html",
+      "verified_url": "https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_1/iv_who_can_receive_baptism.html",
+      "issuing_body": "Holy See",
+      "title": "Catechism of the Catholic Church §1250 (Infant Baptism)",
+      "edition_listed": "1992",
+      "verified_at": "2026-10-20",
+      "reviewer": "AI-assisted documentary audit; no human expert sign-off",
+      "primary_or_secondary": "primary_text_or_official_reproduction",
+      "clauses": [
+        {
+          "paragraph": "CCC §1250",
+          "item_ids": [
+            "E03-01"
+          ],
+          "claim_ids": [
+            "E03.claim1"
+          ],
+          "relation": "supports",
+          "caveat": "문서 확인이며 문항·전통 매핑의 전문 검수 승인은 아님."
+        }
+      ],
+      "caveat": "유아세례 조항을 확인했다. 이 확인은 모든 세례 질문이나 가톨릭 전통 매핑 전체의 승인이 아니다."
+    },
+    {
+      "source_id": "OCA_EUCHARIST",
+      "status": "verified_document",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-sacraments/holy-eucharist",
+      "verified_url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-sacraments/holy-eucharist",
+      "issuing_body": "Orthodox Church in America",
+      "title": "The Orthodox Faith: Holy Eucharist",
+      "edition_listed": "current",
+      "verified_at": "2026-10-20",
+      "reviewer": "AI-assisted documentary audit; no human expert sign-off",
+      "primary_or_secondary": "official_teaching",
+      "clauses": [],
+      "caveat": "공식 Holy Eucharist 본문 접근은 확인했다. 서방의 실체변화/상징 분류에 직접 환원하는 조항 매핑은 보류한다."
+    }
+  ],
+  "creedal_evidence": [
+    {
+      "item_id": "K01",
+      "source_id": "CCC_TRINITY",
+      "paragraph": "§§253–255",
+      "url": "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_one/article_1/paragraph_2_the_father.index.html",
+      "status": "verified_clause",
+      "supports_full_statement": true,
+      "explanation": "한 신성과 위격의 실제 구별을 설명한다.",
+      "historical_nuance": "니케아 전통을 설명하는 후대 가톨릭 해설이다. 381 신조의 직접 문구와 구별한다."
+    },
+    {
+      "item_id": "K02",
+      "source_id": "CCC_TRINITY",
+      "paragraph": "§253",
+      "url": "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_one/article_1/paragraph_2_the_father.index.html",
+      "status": "verified_clause",
+      "supports_full_statement": true,
+      "explanation": "세 신이 아닌 하나님의 일체성을 설명한다.",
+      "historical_nuance": "문서 대조이며 개인의 신앙·정체성에 대한 판정이 아니다."
+    },
+    {
+      "item_id": "K03",
+      "source_id": "NICENE381",
+      "paragraph": "Lima §15 — Son",
+      "url": "https://www.oikoumene.org/resources/documents/the-eucharistic-liturgy-of-lima",
+      "status": "verified_clause",
+      "supports_full_statement": true,
+      "explanation": "성자의 영원성·비피조성을 고백한다.",
+      "historical_nuance": "문서 대조이며 개인의 신앙·정체성에 대한 판정이 아니다."
+    },
+    {
+      "item_id": "K04",
+      "source_id": "NICENE381",
+      "paragraph": "Lima §15 — Holy Spirit",
+      "url": "https://www.oikoumene.org/resources/documents/the-eucharistic-liturgy-of-lima",
+      "status": "verified_clause",
+      "supports_full_statement": true,
+      "explanation": "성령의 주되심과 공동 경배를 고백한다.",
+      "historical_nuance": "문서 대조이며 개인의 신앙·정체성에 대한 판정이 아니다."
+    },
+    {
+      "item_id": "K05",
+      "source_id": "NICENE381",
+      "paragraph": "Lima §15 — Son",
+      "url": "https://www.oikoumene.org/resources/documents/the-eucharistic-liturgy-of-lima",
+      "status": "verified_clause",
+      "supports_full_statement": true,
+      "explanation": "성자의 참된 신성과 성부와의 동일 본질을 고백한다.",
+      "historical_nuance": "문서 대조이며 개인의 신앙·정체성에 대한 판정이 아니다."
+    },
+    {
+      "item_id": "K06",
+      "source_id": "CHALCEDON451",
+      "paragraph": "CCC §467",
+      "url": "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/artcile_3.html",
+      "status": "verified_clause",
+      "supports_full_statement": true,
+      "explanation": "그리스도의 온전한 인간 본성을 고백한다.",
+      "historical_nuance": "칼케돈 정의 인용의 문맥을 유지한다. C02-01의 이성과 의지 전체를 이 조항 하나로 검증했다고 주장하지 않는다."
+    },
+    {
+      "item_id": "K07",
+      "source_id": "CHALCEDON451",
+      "paragraph": "CCC §467",
+      "url": "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/artcile_3.html",
+      "status": "verified_clause",
+      "supports_full_statement": true,
+      "explanation": "한 위격 안의 완전한 신성과 인성을 고백한다.",
+      "historical_nuance": "오리엔트 정교회의 미아피시스 언어를 단순히 인성 부정으로 간주하지 않는다. 공동 성명과 역사적 수용 차이의 전문가 검토가 필요하다."
+    },
+    {
+      "item_id": "K08",
+      "source_id": "NICENE381",
+      "paragraph": "Lima §15 — passion and resurrection",
+      "url": "https://www.oikoumene.org/resources/documents/the-eucharistic-liturgy-of-lima",
+      "status": "verified_clause",
+      "supports_full_statement": true,
+      "explanation": "죽음과 부활을 함께 고백한다.",
+      "historical_nuance": "C06-01은 부활만 지지하는 부분 근거여서 K08 전체의 독립 교차확인으로 쓰지 않는다."
+    },
+    {
+      "item_id": "K09",
+      "source_id": "NICENE381",
+      "paragraph": "Lima §15 — resurrection",
+      "url": "https://www.oikoumene.org/resources/documents/the-eucharistic-liturgy-of-lima",
+      "status": "verified_clause",
+      "supports_full_statement": false,
+      "explanation": "부활 고백을 확인했다. 이 문장에는 몸이라는 표현이 직접 나오지 않는다.",
+      "historical_nuance": "몸의 부활 해석은 UMC 종교조항 III에서 명시적으로 확인된다. 해당 교단 문서와 381 신조 원문을 구별하며 신조 전체 문항 대조는 유보한다.",
+      "supplemental_sources": [
+        {
+          "source_id": "METHODIST_ART",
+          "paragraph": "Article III",
+          "url": "https://www.umc.org/en/content/articles-of-religion"
+        }
+      ]
+    },
+    {
+      "item_id": "K10",
+      "source_id": "NICENE381",
+      "paragraph": "Lima §15 — return in glory",
+      "url": "https://www.oikoumene.org/resources/documents/the-eucharistic-liturgy-of-lima",
+      "status": "verified_clause",
+      "supports_full_statement": true,
+      "explanation": "영광 가운데의 재림을 고백한다.",
+      "historical_nuance": "문서 대조이며 개인의 신앙·정체성에 대한 판정이 아니다."
+    },
+    {
+      "item_id": "K11",
+      "source_id": "NICENE381",
+      "paragraph": "Lima §15 — resurrection of the dead",
+      "url": "https://www.oikoumene.org/resources/documents/the-eucharistic-liturgy-of-lima",
+      "status": "verified_clause",
+      "supports_full_statement": true,
+      "explanation": "죽은 이들의 부활에 대한 소망을 고백한다.",
+      "historical_nuance": "문서 대조이며 개인의 신앙·정체성에 대한 판정이 아니다."
+    },
+    {
+      "item_id": "K12",
+      "source_id": "NICENE381",
+      "paragraph": "Order of Worship IV — Confession of Faith",
+      "url": "https://www.oikoumene.org/resources/documents/order-of-worship",
+      "status": "verified_clause",
+      "supports_full_statement": true,
+      "explanation": "교회의 네 표지를 함께 고백한다.",
+      "historical_nuance": "Lima 웹판에서는 one이 누락되어 완전한 네 표지가 있는 WCC 별도 예전으로 대조했다. 구성요소 문항만으로 전체 고백을 교차확인하지 않는다."
+    }
+  ],
+  "seed_sha256": {
+    "items.json": "43153cb7158185b46785f09b4eb4fd7a93ff545dae63372e8f45d5adccd6366d",
+    "conditional_items.json": "d9f078cfa72b5a120e0c7a0efd775d113d9b7799ff80e61af271fd612501de0d"
+  },
+  "findings": [
+    "108개 프로필 claim은 각각 단일 문항이다.",
+    "11개 전통 모두 비승인, 10명 신학자 모두 원전 검수 대기이다.",
+    "모든 claim_links는 provisional_semantic_link 상태이다.",
+    "분기 질문은 semantic trigger 조건이 없어 점수에 합산하지 않고 선택 탐구로만 제공한다.",
+    "창조 고백은 설계 설명에 있으나 실제 K01–K12에는 독립 창조 문항이 없다. 문항 추가는 편집 승인 필요."
+  ]
+}

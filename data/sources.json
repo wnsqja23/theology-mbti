@@ -1,0 +1,182 @@
+[
+  {
+    "id": "NICENE381",
+    "title": "니케아-콘스탄티노폴리스 신조(381)",
+    "issuer": "World Council of Churches",
+    "edition": "381 (WCC 2025 edition)",
+    "url": "https://www.oikoumene.org/resources/documents/nicene-constantinopolitan-creed",
+    "type": "creed",
+    "status": "link_checked_2026_10_20",
+    "caveat": "source listing only: exact article/paragraph citation requires item-level review"
+  },
+  {
+    "id": "CHALCEDON451",
+    "title": "칼케돈 신앙 정의(451), 가톨릭 교리서 §467 인용",
+    "issuer": "Catholic Church / Vatican",
+    "edition": "451/1992",
+    "url": "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/artcile_3.html",
+    "type": "creed",
+    "status": "link_checked_2026_10_20",
+    "caveat": "source listing only: exact article/paragraph citation requires item-level review"
+  },
+  {
+    "id": "CCC_TRINITY",
+    "title": "가톨릭 교리서 §253–255",
+    "issuer": "Holy See",
+    "edition": "1992",
+    "url": "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_one/article_1/paragraph_2_the_father.index.html",
+    "type": "confession",
+    "status": "link_checked_2026_10_20",
+    "caveat": "source listing only: exact article/paragraph citation requires item-level review"
+  },
+  {
+    "id": "WCF",
+    "title": "웨스트민스터 신앙고백",
+    "issuer": "Westminster Theological Seminary (host)",
+    "edition": "1646",
+    "url": "https://wts.edu/wcf",
+    "type": "confession",
+    "status": "link_checked_2026_10_20",
+    "caveat": "source listing only: exact article/paragraph citation requires item-level review"
+  },
+  {
+    "id": "METHODIST_ART",
+    "title": "감리교 종교조항",
+    "issuer": "United Methodist Church",
+    "edition": "2020/2024",
+    "url": "https://www.umc.org/en/content/articles-of-religion",
+    "type": "confession",
+    "status": "link_checked_2026_10_20",
+    "caveat": "source listing only: exact article/paragraph citation requires item-level review"
+  },
+  {
+    "id": "NAZ_ART",
+    "title": "나사렛교회 신앙조항",
+    "issuer": "Church of the Nazarene",
+    "edition": "2023",
+    "url": "https://nazarene.org/what-we-believe/",
+    "type": "confession",
+    "status": "link_checked_2026_10_20",
+    "caveat": "source listing only: exact article/paragraph citation requires item-level review"
+  },
+  {
+    "id": "BAPTIST_BFM",
+    "title": "Baptist Faith & Message",
+    "issuer": "Southern Baptist Convention",
+    "edition": "2000",
+    "url": "https://bfm.sbc.net/bfm2000/",
+    "type": "confession",
+    "status": "link_checked_2026_10_20",
+    "caveat": "source listing only: exact article/paragraph citation requires item-level review"
+  },
+  {
+    "id": "AG_SFT",
+    "title": "Statement of Fundamental Truths",
+    "issuer": "Assemblies of God USA",
+    "edition": "official current",
+    "url": "https://ag.org/Beliefs/Statement-of-Fundamental-truths",
+    "type": "confession",
+    "status": "link_checked_2026_10_20",
+    "caveat": "source listing only: exact article/paragraph citation requires item-level review"
+  },
+  {
+    "id": "OCA_TRINITY",
+    "title": "The Doctrine of the Holy Trinity",
+    "issuer": "Orthodox Church in America",
+    "edition": "current",
+    "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/the-holy-trinity/the-doctrine-of-the-holy-trinity",
+    "type": "teaching",
+    "status": "link_checked_2026_10_20",
+    "caveat": "source listing only: exact article/paragraph citation requires item-level review"
+  },
+  {
+    "id": "OCA_THEOSIS",
+    "title": "Holy Trinity in Christian Life",
+    "issuer": "Orthodox Church in America",
+    "edition": "current",
+    "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/the-holy-trinity/the-holy-trinity-in-christian-life",
+    "type": "teaching",
+    "status": "link_checked_2026_10_20",
+    "caveat": "source listing only: exact article/paragraph citation requires item-level review"
+  },
+  {
+    "id": "LUTHER_BOC",
+    "title": "Book of Concord (primary Lutheran confessions)",
+    "issuer": "Book of Concord host",
+    "edition": "1530+",
+    "url": "https://thebookofconcord.org/",
+    "type": "confession",
+    "status": "link_checked_2026_10_20",
+    "caveat": "source listing only: exact article/paragraph citation requires item-level review"
+  },
+  {
+    "id": "APA_STANDARDS",
+    "title": "Standards for Educational and Psychological Testing",
+    "issuer": "AERA/APA/NCME",
+    "edition": "2014",
+    "url": "https://www.apa.org/science/programs/testing/standards",
+    "type": "assessment_standard",
+    "status": "link_checked_2026_10_20",
+    "caveat": "source listing only: exact article/paragraph citation requires item-level review"
+  },
+  {
+    "id": "ITC_TECH",
+    "title": "ITC/ATP Guidelines for Technology-Based Assessment",
+    "issuer": "International Test Commission",
+    "edition": "2025",
+    "url": "https://www.intestcom.org/page/16",
+    "type": "assessment_standard",
+    "status": "link_checked_2026_10_20",
+    "caveat": "source listing only: exact article/paragraph citation requires item-level review"
+  },
+  {
+    "id": "ITC_USE",
+    "title": "ITC Guidelines on Test Use",
+    "issuer": "International Test Commission",
+    "edition": "current",
+    "url": "https://www.intestcom.org/page/15",
+    "type": "assessment_standard",
+    "status": "link_checked_2026_10_20",
+    "caveat": "source listing only: exact article/paragraph citation requires item-level review"
+  },
+  {
+    "id": "ANGLICAN_39",
+    "title": "Articles of Religion (Thirty-Nine Articles)",
+    "issuer": "The Church of England",
+    "edition": "1562/1571 current official text",
+    "url": "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/articles-religion",
+    "type": "confession",
+    "status": "link_checked_2026_10_20",
+    "caveat": "Church of England article text; use clause-specific citations in release"
+  },
+  {
+    "id": "CCC_EUCHARIST",
+    "title": "Compendium of the Catechism of the Catholic Church (Eucharist §283 / Catechism 1376–1377)",
+    "issuer": "Holy See",
+    "edition": "2005",
+    "url": "https://www.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_en.html?plain=true",
+    "type": "confession",
+    "status": "link_checked_2026_10_20",
+    "caveat": "Locate item 283 on official page, then verify original CCC §§1376-1377."
+  },
+  {
+    "id": "CCC_BAPTISM",
+    "title": "Catechism of the Catholic Church §1250 (Infant Baptism)",
+    "issuer": "Holy See",
+    "edition": "1992",
+    "url": "https://www.vatican.va/content/catechism/en/part_two/section_two/chapter_one/article_1/iv_who_can_receive_baptism.html",
+    "type": "confession",
+    "status": "link_checked_2026_10_20",
+    "caveat": "Baptism of infants. Exact verse/item-level citation requires verification."
+  },
+  {
+    "id": "OCA_EUCHARIST",
+    "title": "The Orthodox Faith: Holy Eucharist",
+    "issuer": "Orthodox Church in America",
+    "edition": "current",
+    "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-sacraments/holy-eucharist",
+    "type": "teaching",
+    "status": "link_checked_2026_10_20",
+    "caveat": "Orthodox eucharistic teaching: real presence and mystery are not reducible to transubstantiation or bare symbolism."
+  }
+]

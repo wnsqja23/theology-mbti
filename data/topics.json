@@ -1,0 +1,412 @@
+[
+  {
+    "id": "G01",
+    "domain": "신론",
+    "name": "삼위일체의 위격과 본질",
+    "source_ids": [
+      "NICENE381",
+      "CCC_TRINITY"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "G02",
+    "domain": "신론",
+    "name": "성자의 영원성과 비피조성",
+    "source_ids": [
+      "NICENE381",
+      "CCC_TRINITY"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "G03",
+    "domain": "신론",
+    "name": "성령의 신성과 위격",
+    "source_ids": [
+      "NICENE381",
+      "OCA_TRINITY"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "G04",
+    "domain": "신론",
+    "name": "신적 불변성과 고난",
+    "source_ids": [
+      "WCF",
+      "OCA_TRINITY"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "G05",
+    "domain": "신론",
+    "name": "섭리와 작정",
+    "source_ids": [
+      "WCF",
+      "METHODIST_ART"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "G06",
+    "domain": "신론",
+    "name": "예지와 열린 미래",
+    "source_ids": [
+      "WCF",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "H01",
+    "domain": "인간론",
+    "name": "하나님의 형상",
+    "source_ids": [
+      "BAPTIST_BFM",
+      "OCA_THEOSIS"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "H02",
+    "domain": "인간론",
+    "name": "원죄·부패·죽음",
+    "source_ids": [
+      "WCF",
+      "METHODIST_ART",
+      "OCA_THEOSIS"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "H03",
+    "domain": "인간론",
+    "name": "타락한 인간과 은혜의 필요",
+    "source_ids": [
+      "WCF",
+      "METHODIST_ART"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "H04",
+    "domain": "인간론",
+    "name": "은혜의 저항 가능성",
+    "source_ids": [
+      "WCF",
+      "NAZ_ART"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "H05",
+    "domain": "인간론",
+    "name": "칭의와 의로움",
+    "source_ids": [
+      "WCF",
+      "METHODIST_ART",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "H06",
+    "domain": "인간론",
+    "name": "성화와 온전한 사랑",
+    "source_ids": [
+      "NAZ_ART",
+      "WCF",
+      "OCA_THEOSIS"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "C01",
+    "domain": "기독론",
+    "name": "그리스도의 완전한 신성",
+    "source_ids": [
+      "NICENE381",
+      "CHALCEDON451"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "C02",
+    "domain": "기독론",
+    "name": "그리스도의 완전한 인성",
+    "source_ids": [
+      "CHALCEDON451",
+      "METHODIST_ART"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "C03",
+    "domain": "기독론",
+    "name": "성육신에서 본성과 위격",
+    "source_ids": [
+      "CHALCEDON451"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "C04",
+    "domain": "기독론",
+    "name": "동정녀 탄생과 성육신 사건",
+    "source_ids": [
+      "NICENE381",
+      "CHALCEDON451"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "C05",
+    "domain": "기독론",
+    "name": "속죄의 여러 설명",
+    "source_ids": [
+      "WCF",
+      "METHODIST_ART",
+      "OCA_THEOSIS"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "C06",
+    "domain": "기독론",
+    "name": "몸의 부활과 역사성",
+    "source_ids": [
+      "NICENE381",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "P01",
+    "domain": "성령론",
+    "name": "성령의 인격적 사역",
+    "source_ids": [
+      "NICENE381",
+      "AG_SFT"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "P02",
+    "domain": "성령론",
+    "name": "중생과 성령세례",
+    "source_ids": [
+      "NAZ_ART",
+      "AG_SFT",
+      "WCF"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "P03",
+    "domain": "성령론",
+    "name": "방언과 성령세례의 증거",
+    "source_ids": [
+      "AG_SFT",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "P04",
+    "domain": "성령론",
+    "name": "특별한 은사의 지속",
+    "source_ids": [
+      "AG_SFT",
+      "WCF"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "P05",
+    "domain": "성령론",
+    "name": "오늘날 예언과 분별의 권위",
+    "source_ids": [
+      "WCF",
+      "AG_SFT"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "P06",
+    "domain": "성령론",
+    "name": "성령 사역의 강조점",
+    "source_ids": [
+      "NAZ_ART",
+      "AG_SFT",
+      "OCA_THEOSIS"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "E01",
+    "domain": "교회론",
+    "name": "교회의 사도성과 일치",
+    "source_ids": [
+      "NICENE381",
+      "CCC_TRINITY",
+      "OCA_TRINITY"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "E02",
+    "domain": "교회론",
+    "name": "교회의 치리 구조",
+    "source_ids": [
+      "WCF",
+      "BAPTIST_BFM",
+      "METHODIST_ART"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "E03",
+    "domain": "교회론",
+    "name": "세례의 대상",
+    "source_ids": [
+      "WCF",
+      "BAPTIST_BFM",
+      "METHODIST_ART",
+      "CCC_BAPTISM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "E04",
+    "domain": "교회론",
+    "name": "세례의 은총과 표지",
+    "source_ids": [
+      "METHODIST_ART",
+      "WCF",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "E05",
+    "domain": "교회론",
+    "name": "성찬의 임재와 의미",
+    "source_ids": [
+      "WCF",
+      "METHODIST_ART",
+      "OCA_TRINITY",
+      "CCC_EUCHARIST",
+      "OCA_EUCHARIST"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "E06",
+    "domain": "교회론",
+    "name": "교회의 표지와 사명",
+    "source_ids": [
+      "WCF",
+      "BAPTIST_BFM",
+      "METHODIST_ART"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "Z01",
+    "domain": "종말론",
+    "name": "그리스도의 재림",
+    "source_ids": [
+      "NICENE381",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "Z02",
+    "domain": "종말론",
+    "name": "죽은 자의 부활과 새 창조",
+    "source_ids": [
+      "NICENE381",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "Z03",
+    "domain": "종말론",
+    "name": "천년왕국 모델",
+    "source_ids": [
+      "WCF",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "Z04",
+    "domain": "종말론",
+    "name": "환난과 휴거",
+    "source_ids": [
+      "AG_SFT",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "Z05",
+    "domain": "종말론",
+    "name": "최후 심판과 인간의 운명",
+    "source_ids": [
+      "BAPTIST_BFM",
+      "WCF"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  },
+  {
+    "id": "Z06",
+    "domain": "종말론",
+    "name": "이스라엘과 교회의 관계",
+    "source_ids": [
+      "WCF",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "issue": "interpretive_care_required"
+  }
+]

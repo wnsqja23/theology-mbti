@@ -1,0 +1,201 @@
+[
+  {
+    "creedal_item_id": "K01",
+    "related_items": [
+      {
+        "item_id": "G01-01",
+        "direction": 1,
+        "relation": "equivalent"
+      },
+      {
+        "item_id": "G01-02",
+        "direction": -1,
+        "relation": "opposes"
+      }
+    ],
+    "review_status": "provisional_semantic_link",
+    "note": "교리적으로 동등한 주장에 대해서만 자동 교차 검증. supports_component는 경고 조건에 사용하지 않는다."
+  },
+  {
+    "creedal_item_id": "K02",
+    "related_items": [
+      {
+        "item_id": "G01-03",
+        "direction": -1,
+        "relation": "opposes"
+      },
+      {
+        "item_id": "G01-01",
+        "direction": 1,
+        "relation": "supports_component"
+      }
+    ],
+    "review_status": "provisional_semantic_link",
+    "note": "교리적으로 동등한 주장에 대해서만 자동 교차 검증. supports_component는 경고 조건에 사용하지 않는다."
+  },
+  {
+    "creedal_item_id": "K03",
+    "related_items": [
+      {
+        "item_id": "G02-01",
+        "direction": 1,
+        "relation": "equivalent"
+      },
+      {
+        "item_id": "G02-02",
+        "direction": -1,
+        "relation": "opposes"
+      }
+    ],
+    "review_status": "provisional_semantic_link",
+    "note": "교리적으로 동등한 주장에 대해서만 자동 교차 검증. supports_component는 경고 조건에 사용하지 않는다."
+  },
+  {
+    "creedal_item_id": "K04",
+    "related_items": [
+      {
+        "item_id": "G03-03",
+        "direction": 1,
+        "relation": "equivalent"
+      },
+      {
+        "item_id": "G03-02",
+        "direction": -1,
+        "relation": "opposes"
+      }
+    ],
+    "review_status": "provisional_semantic_link",
+    "note": "교리적으로 동등한 주장에 대해서만 자동 교차 검증. supports_component는 경고 조건에 사용하지 않는다."
+  },
+  {
+    "creedal_item_id": "K05",
+    "related_items": [
+      {
+        "item_id": "C01-01",
+        "direction": 1,
+        "relation": "equivalent"
+      },
+      {
+        "item_id": "C01-02",
+        "direction": -1,
+        "relation": "opposes"
+      }
+    ],
+    "review_status": "provisional_semantic_link",
+    "note": "교리적으로 동등한 주장에 대해서만 자동 교차 검증. supports_component는 경고 조건에 사용하지 않는다."
+  },
+  {
+    "creedal_item_id": "K06",
+    "related_items": [
+      {
+        "item_id": "C02-01",
+        "direction": 1,
+        "relation": "equivalent"
+      },
+      {
+        "item_id": "C02-02",
+        "direction": -1,
+        "relation": "opposes"
+      }
+    ],
+    "review_status": "provisional_semantic_link",
+    "note": "교리적으로 동등한 주장에 대해서만 자동 교차 검증. supports_component는 경고 조건에 사용하지 않는다."
+  },
+  {
+    "creedal_item_id": "K07",
+    "related_items": [
+      {
+        "item_id": "C03-01",
+        "direction": 1,
+        "relation": "equivalent"
+      },
+      {
+        "item_id": "C03-03",
+        "direction": -1,
+        "relation": "opposes"
+      }
+    ],
+    "review_status": "provisional_semantic_link",
+    "note": "교리적으로 동등한 주장에 대해서만 자동 교차 검증. supports_component는 경고 조건에 사용하지 않는다."
+  },
+  {
+    "creedal_item_id": "K08",
+    "related_items": [
+      {
+        "item_id": "C06-01",
+        "direction": 1,
+        "relation": "supports_component"
+      }
+    ],
+    "review_status": "provisional_semantic_link",
+    "note": "교리적으로 동등한 주장에 대해서만 자동 교차 검증. supports_component는 경고 조건에 사용하지 않는다."
+  },
+  {
+    "creedal_item_id": "K09",
+    "related_items": [
+      {
+        "item_id": "C06-01",
+        "direction": 1,
+        "relation": "equivalent"
+      },
+      {
+        "item_id": "C06-02",
+        "direction": -1,
+        "relation": "opposes"
+      }
+    ],
+    "review_status": "provisional_semantic_link",
+    "note": "교리적으로 동등한 주장에 대해서만 자동 교차 검증. supports_component는 경고 조건에 사용하지 않는다."
+  },
+  {
+    "creedal_item_id": "K10",
+    "related_items": [
+      {
+        "item_id": "Z01-01",
+        "direction": 1,
+        "relation": "equivalent"
+      },
+      {
+        "item_id": "Z01-02",
+        "direction": -1,
+        "relation": "opposes"
+      }
+    ],
+    "review_status": "provisional_semantic_link",
+    "note": "교리적으로 동등한 주장에 대해서만 자동 교차 검증. supports_component는 경고 조건에 사용하지 않는다."
+  },
+  {
+    "creedal_item_id": "K11",
+    "related_items": [
+      {
+        "item_id": "Z02-01",
+        "direction": 1,
+        "relation": "equivalent"
+      },
+      {
+        "item_id": "Z02-03",
+        "direction": -1,
+        "relation": "opposes"
+      }
+    ],
+    "review_status": "provisional_semantic_link",
+    "note": "교리적으로 동등한 주장에 대해서만 자동 교차 검증. supports_component는 경고 조건에 사용하지 않는다."
+  },
+  {
+    "creedal_item_id": "K12",
+    "related_items": [
+      {
+        "item_id": "E01-02",
+        "direction": 1,
+        "relation": "supports_component"
+      },
+      {
+        "item_id": "E01-03",
+        "direction": 1,
+        "relation": "supports_component"
+      }
+    ],
+    "review_status": "provisional_semantic_link",
+    "note": "교리적으로 동등한 주장에 대해서만 자동 교차 검증. supports_component는 경고 조건에 사용하지 않는다."
+  }
+]

@@ -1,0 +1,2084 @@
+[
+  {
+    "id": "G01-01",
+    "section": "profile",
+    "domain": "신론",
+    "topic_id": "G01",
+    "claim_id": "G01.claim1",
+    "kind": "likert",
+    "statement": "하나님은 본질상 한 분이시면서 성부·성자·성령의 세 위격으로 영원히 존재하신다.",
+    "source_ids": [
+      "NICENE381",
+      "CCC_TRINITY"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "G01-02",
+    "section": "profile",
+    "domain": "신론",
+    "topic_id": "G01",
+    "claim_id": "G01.claim2",
+    "kind": "likert",
+    "statement": "성부·성자·성령은 실제로 구별되는 위격이 아니라 한 위격이 상황마다 쓰는 세 이름이다.",
+    "source_ids": [
+      "NICENE381",
+      "CCC_TRINITY"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "G01-03",
+    "section": "profile",
+    "domain": "신론",
+    "topic_id": "G01",
+    "claim_id": "G01.claim3",
+    "kind": "likert",
+    "statement": "성부와 성자와 성령은 신적 본질이 서로 다른 세 신이라고 생각한다.",
+    "source_ids": [
+      "NICENE381",
+      "CCC_TRINITY"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "G02-01",
+    "section": "profile",
+    "domain": "신론",
+    "topic_id": "G02",
+    "claim_id": "G02.claim1",
+    "kind": "likert",
+    "statement": "성자는 하나님이 창조하신 최초의 존재가 아니라 영원부터 계시는 분이다.",
+    "source_ids": [
+      "NICENE381",
+      "CCC_TRINITY"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "G02-02",
+    "section": "profile",
+    "domain": "신론",
+    "topic_id": "G02",
+    "claim_id": "G02.claim2",
+    "kind": "likert",
+    "statement": "성자는 한때 존재하지 않았으며 하나님이 다른 피조물보다 먼저 만드셨다.",
+    "source_ids": [
+      "NICENE381",
+      "CCC_TRINITY"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "G02-03",
+    "section": "profile",
+    "domain": "신론",
+    "topic_id": "G02",
+    "claim_id": "G02.claim3",
+    "kind": "likert",
+    "statement": "성자는 영원히 성부와 함께 계시며 성부와 동일한 신성을 가지신다.",
+    "source_ids": [
+      "NICENE381",
+      "CCC_TRINITY"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "G03-01",
+    "section": "profile",
+    "domain": "신론",
+    "topic_id": "G03",
+    "claim_id": "G03.claim1",
+    "kind": "likert",
+    "statement": "성령은 단순한 힘이 아니라 스스로 일하시고 관계를 맺으시는 신적 위격이다.",
+    "source_ids": [
+      "NICENE381",
+      "OCA_TRINITY"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "G03-02",
+    "section": "profile",
+    "domain": "신론",
+    "topic_id": "G03",
+    "claim_id": "G03.claim2",
+    "kind": "likert",
+    "statement": "성령은 하나님에게서 나오는 비인격적인 영향력이나 능력을 가리키는 표현일 뿐이다.",
+    "source_ids": [
+      "NICENE381",
+      "OCA_TRINITY"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "G03-03",
+    "section": "profile",
+    "domain": "신론",
+    "topic_id": "G03",
+    "claim_id": "G03.claim3",
+    "kind": "likert",
+    "statement": "성령은 성부 및 성자와 동등하게 예배와 영광을 받으실 분이다.",
+    "source_ids": [
+      "NICENE381",
+      "OCA_TRINITY"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "G04-01",
+    "section": "profile",
+    "domain": "신론",
+    "topic_id": "G04",
+    "claim_id": "G04.claim1",
+    "kind": "likert",
+    "statement": "세계가 변하고 인간이 고통받아도 하나님의 본질적 완전성 자체는 변하지 않는다.",
+    "source_ids": [
+      "WCF",
+      "OCA_TRINITY"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "G04-02",
+    "section": "profile",
+    "domain": "신론",
+    "topic_id": "G04",
+    "claim_id": "G04.claim2",
+    "kind": "likert",
+    "statement": "인간이 고통받을 때 하나님도 그 고통을 실제로 자신의 경험으로 겪으신다고 생각한다.",
+    "source_ids": [
+      "WCF",
+      "OCA_TRINITY"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "G04-03",
+    "section": "profile",
+    "domain": "신론",
+    "topic_id": "G04",
+    "claim_id": "G04.claim3",
+    "kind": "likert",
+    "statement": "하나님이 창조 세계에서 처음으로 새로운 사실을 배우시는 일도 가능하다.",
+    "source_ids": [
+      "WCF",
+      "OCA_TRINITY"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "G05-01",
+    "section": "profile",
+    "domain": "신론",
+    "topic_id": "G05",
+    "claim_id": "G05.claim1",
+    "kind": "likert",
+    "statement": "하나님의 섭리는 역사 속에 실제로 일어나는 모든 사건에까지 미친다.",
+    "source_ids": [
+      "WCF",
+      "METHODIST_ART"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "G05-02",
+    "section": "profile",
+    "domain": "신론",
+    "topic_id": "G05",
+    "claim_id": "G05.claim2",
+    "kind": "likert",
+    "statement": "인간은 여러 가능성 가운데 실제로 다른 선택을 할 수 있다는 의미에서 자유롭다.",
+    "source_ids": [
+      "WCF",
+      "METHODIST_ART"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "G05-03",
+    "section": "profile",
+    "domain": "신론",
+    "topic_id": "G05",
+    "claim_id": "G05.claim3",
+    "kind": "likert",
+    "statement": "하나님이 모든 사건을 작정하셨다는 사실은 그 사건에 대한 인간의 책임과 양립한다.",
+    "source_ids": [
+      "WCF",
+      "METHODIST_ART"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "G06-01",
+    "section": "profile",
+    "domain": "신론",
+    "topic_id": "G06",
+    "claim_id": "G06.claim1",
+    "kind": "likert",
+    "statement": "하나님은 미래에 실제로 일어날 자유로운 선택까지 확실하게 아신다.",
+    "source_ids": [
+      "WCF",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "G06-02",
+    "section": "profile",
+    "domain": "신론",
+    "topic_id": "G06",
+    "claim_id": "G06.claim2",
+    "kind": "likert",
+    "statement": "하나님은 실현되지 않은 가능한 모든 상황에서 인간이 어떤 결정을 내릴지도 아신다.",
+    "source_ids": [
+      "WCF",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "G06-03",
+    "section": "profile",
+    "domain": "신론",
+    "topic_id": "G06",
+    "claim_id": "G06.claim3",
+    "kind": "likert",
+    "statement": "자유로운 선택 중에는 아직 확정된 사실이 없으므로 하나님도 이를 열려 있는 가능성으로 아신다.",
+    "source_ids": [
+      "WCF",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "H01-01",
+    "section": "profile",
+    "domain": "인간론",
+    "topic_id": "H01",
+    "claim_id": "H01.claim1",
+    "kind": "likert",
+    "statement": "심각한 죄를 범한 사람도 인간이라는 이유로 하나님의 형상에 따른 존엄을 지닌다.",
+    "source_ids": [
+      "BAPTIST_BFM",
+      "OCA_THEOSIS"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "H01-02",
+    "section": "profile",
+    "domain": "인간론",
+    "topic_id": "H01",
+    "claim_id": "H01.claim2",
+    "kind": "likert",
+    "statement": "하나님의 형상은 하나님과 이웃에게 관계하도록 창조된 인간의 소명을 강조한다.",
+    "source_ids": [
+      "BAPTIST_BFM",
+      "OCA_THEOSIS"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "H01-03",
+    "section": "profile",
+    "domain": "인간론",
+    "topic_id": "H01",
+    "claim_id": "H01.claim3",
+    "kind": "likert",
+    "statement": "인간의 궁극적 소명은 하나님의 생명에 참여하여 그분을 닮아 가는 것이다.",
+    "source_ids": [
+      "BAPTIST_BFM",
+      "OCA_THEOSIS"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "H02-01",
+    "section": "profile",
+    "domain": "인간론",
+    "topic_id": "H02",
+    "claim_id": "H02.claim1",
+    "kind": "likert",
+    "statement": "태어난 아이에게도 아담의 범죄와 연결된 원죄의 죄책이 있다고 생각한다.",
+    "source_ids": [
+      "WCF",
+      "METHODIST_ART",
+      "OCA_THEOSIS"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "H02-02",
+    "section": "profile",
+    "domain": "인간론",
+    "topic_id": "H02",
+    "claim_id": "H02.claim2",
+    "kind": "likert",
+    "statement": "모든 인간은 개인적인 선택 이전에도 죄로 기울어진 본성의 영향을 받는다.",
+    "source_ids": [
+      "WCF",
+      "METHODIST_ART",
+      "OCA_THEOSIS"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "H02-03",
+    "section": "profile",
+    "domain": "인간론",
+    "topic_id": "H02",
+    "claim_id": "H02.claim3",
+    "kind": "likert",
+    "statement": "인류가 조상에게서 이어받은 가장 근본적인 조건은 죽음과 부패이며 조상의 죄책과 구별해야 한다.",
+    "source_ids": [
+      "WCF",
+      "METHODIST_ART",
+      "OCA_THEOSIS"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "H03-01",
+    "section": "profile",
+    "domain": "인간론",
+    "topic_id": "H03",
+    "claim_id": "H03.claim1",
+    "kind": "likert",
+    "statement": "타락한 인간은 하나님의 은총이 먼저 작용하지 않아도 스스로 구원에 이르는 믿음을 시작할 수 있다.",
+    "source_ids": [
+      "WCF",
+      "METHODIST_ART"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "H03-02",
+    "section": "profile",
+    "domain": "인간론",
+    "topic_id": "H03",
+    "claim_id": "H03.claim2",
+    "kind": "likert",
+    "statement": "인간이 하나님을 믿고자 하는 마음에도 먼저 역사하시는 하나님의 은혜가 필요하다.",
+    "source_ids": [
+      "WCF",
+      "METHODIST_ART"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "H03-03",
+    "section": "profile",
+    "domain": "인간론",
+    "topic_id": "H03",
+    "claim_id": "H03.claim3",
+    "kind": "likert",
+    "statement": "죄는 인간의 습관만 악화시킨 것이 아니라 구원에 응답할 능력에도 깊이 영향을 미쳤다.",
+    "source_ids": [
+      "WCF",
+      "METHODIST_ART"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "H04-01",
+    "section": "profile",
+    "domain": "인간론",
+    "topic_id": "H04",
+    "claim_id": "H04.claim1",
+    "kind": "likert",
+    "statement": "하나님이 어떤 사람을 구원으로 효과적으로 부르시면 그 은혜는 반드시 믿음에 이르게 한다.",
+    "source_ids": [
+      "WCF",
+      "NAZ_ART"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "H04-02",
+    "section": "profile",
+    "domain": "인간론",
+    "topic_id": "H04",
+    "claim_id": "H04.claim2",
+    "kind": "likert",
+    "statement": "하나님은 죄인에게 믿음으로 응답할 수 있도록 먼저 은혜를 주신다.",
+    "source_ids": [
+      "WCF",
+      "NAZ_ART"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "H04-03",
+    "section": "profile",
+    "domain": "인간론",
+    "topic_id": "H04",
+    "claim_id": "H04.claim3",
+    "kind": "likert",
+    "statement": "구원을 위해 주어지는 하나님의 은혜를 사람이 실제로 거절할 수 있다고 생각한다.",
+    "source_ids": [
+      "WCF",
+      "NAZ_ART"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "H05-01",
+    "section": "profile",
+    "domain": "인간론",
+    "topic_id": "H05",
+    "claim_id": "H05.claim1",
+    "kind": "likert",
+    "statement": "죄인은 그리스도의 의를 믿음으로 받아 하나님 앞에서 의롭다고 선언받는다.",
+    "source_ids": [
+      "WCF",
+      "METHODIST_ART",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "H05-02",
+    "section": "profile",
+    "domain": "인간론",
+    "topic_id": "H05",
+    "claim_id": "H05.claim2",
+    "kind": "likert",
+    "statement": "칭의는 죄인을 의롭다고 선언하는 것뿐 아니라 내적으로 변화시키는 은혜와도 분리될 수 없다.",
+    "source_ids": [
+      "WCF",
+      "METHODIST_ART",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "H05-03",
+    "section": "profile",
+    "domain": "인간론",
+    "topic_id": "H05",
+    "claim_id": "H05.claim3",
+    "kind": "likert",
+    "statement": "선한 행위는 하나님께 받아들여지는 공로라기보다 구원받은 믿음의 열매라고 본다.",
+    "source_ids": [
+      "WCF",
+      "METHODIST_ART",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "H06-01",
+    "section": "profile",
+    "domain": "인간론",
+    "topic_id": "H06",
+    "claim_id": "H06.claim1",
+    "kind": "likert",
+    "statement": "하나님의 은총으로 이 땅에서도 마음이 온전한 사랑으로 정결해지는 경험이 가능하다.",
+    "source_ids": [
+      "NAZ_ART",
+      "WCF",
+      "OCA_THEOSIS"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "H06-02",
+    "section": "profile",
+    "domain": "인간론",
+    "topic_id": "H06",
+    "claim_id": "H06.claim2",
+    "kind": "likert",
+    "statement": "그리스도인의 성화는 죽는 날까지 이어지는 회개와 죄와의 싸움을 포함한다.",
+    "source_ids": [
+      "NAZ_ART",
+      "WCF",
+      "OCA_THEOSIS"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "H06-03",
+    "section": "profile",
+    "domain": "인간론",
+    "topic_id": "H06",
+    "claim_id": "H06.claim3",
+    "kind": "likert",
+    "statement": "성화의 궁극적 의미는 하나님과 연합하고 신적 생명에 참여하는 변화라고 생각한다.",
+    "source_ids": [
+      "NAZ_ART",
+      "WCF",
+      "OCA_THEOSIS"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "C01-01",
+    "section": "profile",
+    "domain": "기독론",
+    "topic_id": "C01",
+    "claim_id": "C01.claim1",
+    "kind": "likert",
+    "statement": "나사렛 예수는 영원하신 하나님의 성자로서 성부와 동일한 신성을 지니신다.",
+    "source_ids": [
+      "NICENE381",
+      "CHALCEDON451"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "C01-02",
+    "section": "profile",
+    "domain": "기독론",
+    "topic_id": "C01",
+    "claim_id": "C01.claim2",
+    "kind": "likert",
+    "statement": "예수는 하나님이 높이신 특별한 피조물이지만 본질상 하나님과 동일하지는 않다.",
+    "source_ids": [
+      "NICENE381",
+      "CHALCEDON451"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "C01-03",
+    "section": "profile",
+    "domain": "기독론",
+    "topic_id": "C01",
+    "claim_id": "C01.claim3",
+    "kind": "likert",
+    "statement": "예수의 신성에 관한 표현은 하나님 뜻을 온전히 실현한 삶의 상징일 뿐이라고 생각한다.",
+    "source_ids": [
+      "NICENE381",
+      "CHALCEDON451"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "C02-01",
+    "section": "profile",
+    "domain": "기독론",
+    "topic_id": "C02",
+    "claim_id": "C02.claim1",
+    "kind": "likert",
+    "statement": "예수 그리스도는 인간의 몸뿐 아니라 이성과 의지를 포함한 온전한 인간이셨다.",
+    "source_ids": [
+      "CHALCEDON451",
+      "METHODIST_ART"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "C02-02",
+    "section": "profile",
+    "domain": "기독론",
+    "topic_id": "C02",
+    "claim_id": "C02.claim2",
+    "kind": "likert",
+    "statement": "예수가 참 인간이셨다는 점을 인정하면서도 그분은 단지 인간처럼 보이는 외양만 취하셨다고 생각한다.",
+    "source_ids": [
+      "CHALCEDON451",
+      "METHODIST_ART"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "C02-03",
+    "section": "profile",
+    "domain": "기독론",
+    "topic_id": "C02",
+    "claim_id": "C02.claim3",
+    "kind": "likert",
+    "statement": "예수께서는 실제로 인간의 연약함과 고난을 경험하셨지만 죄는 범하지 않으셨다.",
+    "source_ids": [
+      "CHALCEDON451",
+      "METHODIST_ART"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "C03-01",
+    "section": "profile",
+    "domain": "기독론",
+    "topic_id": "C03",
+    "claim_id": "C03.claim1",
+    "kind": "likert",
+    "statement": "그리스도 안의 신성과 인성은 한 위격 안에서 온전히 존재하며 혼합되거나 분리되지 않는다.",
+    "source_ids": [
+      "CHALCEDON451"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "C03-02",
+    "section": "profile",
+    "domain": "기독론",
+    "topic_id": "C03",
+    "claim_id": "C03.claim2",
+    "kind": "likert",
+    "statement": "성육신하신 말씀의 통일성을 설명할 때 신성과 인성이 서로 분리될 수 없음을 특별히 강조한다.",
+    "source_ids": [
+      "CHALCEDON451"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "C03-03",
+    "section": "profile",
+    "domain": "기독론",
+    "topic_id": "C03",
+    "claim_id": "C03.claim3",
+    "kind": "likert",
+    "statement": "예수 안에는 각각 독립적으로 행동하는 신적 인격과 인간적 인격 두 분이 계신다고 생각한다.",
+    "source_ids": [
+      "CHALCEDON451"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "C04-01",
+    "section": "profile",
+    "domain": "기독론",
+    "topic_id": "C04",
+    "claim_id": "C04.claim1",
+    "kind": "likert",
+    "statement": "예수는 성령으로 잉태되어 동정녀 마리아에게서 실제로 태어나셨다.",
+    "source_ids": [
+      "NICENE381",
+      "CHALCEDON451"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "C04-02",
+    "section": "profile",
+    "domain": "기독론",
+    "topic_id": "C04",
+    "claim_id": "C04.claim2",
+    "kind": "likert",
+    "statement": "동정녀 탄생은 예수의 위대함을 표현하는 상징이며 역사적 사실일 필요는 없다고 생각한다.",
+    "source_ids": [
+      "NICENE381",
+      "CHALCEDON451"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "C04-03",
+    "section": "profile",
+    "domain": "기독론",
+    "topic_id": "C04",
+    "claim_id": "C04.claim3",
+    "kind": "likert",
+    "statement": "하나님의 성자가 인간의 역사 속에서 실제로 인간 본성을 취하셨다고 믿는다.",
+    "source_ids": [
+      "NICENE381",
+      "CHALCEDON451"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "C05-01",
+    "section": "profile",
+    "domain": "기독론",
+    "topic_id": "C05",
+    "claim_id": "C05.claim1",
+    "kind": "likert",
+    "statement": "예수께서 죄인의 형벌을 대신 담당하셨다는 설명은 십자가의 본질적인 의미 중 하나다.",
+    "source_ids": [
+      "WCF",
+      "METHODIST_ART",
+      "OCA_THEOSIS"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "C05-02",
+    "section": "profile",
+    "domain": "기독론",
+    "topic_id": "C05",
+    "claim_id": "C05.claim2",
+    "kind": "likert",
+    "statement": "십자가와 부활은 죄와 죽음과 악의 권세를 이기신 그리스도의 승리로 이해할 수 있다.",
+    "source_ids": [
+      "WCF",
+      "METHODIST_ART",
+      "OCA_THEOSIS"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "C05-03",
+    "section": "profile",
+    "domain": "기독론",
+    "topic_id": "C05",
+    "claim_id": "C05.claim3",
+    "kind": "likert",
+    "statement": "십자가는 하나님의 사랑을 계시하여 인간의 마음과 행동을 변화시키는 사건이다.",
+    "source_ids": [
+      "WCF",
+      "METHODIST_ART",
+      "OCA_THEOSIS"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "C06-01",
+    "section": "profile",
+    "domain": "기독론",
+    "topic_id": "C06",
+    "claim_id": "C06.claim1",
+    "kind": "likert",
+    "statement": "예수께서는 죽음 이후 실제로 몸으로 부활하셨다.",
+    "source_ids": [
+      "NICENE381",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "C06-02",
+    "section": "profile",
+    "domain": "기독론",
+    "topic_id": "C06",
+    "claim_id": "C06.claim2",
+    "kind": "likert",
+    "statement": "예수의 부활이란 제자들에게 남은 영적 경험일 뿐 그분 자신의 실제 부활을 뜻하지는 않는다.",
+    "source_ids": [
+      "NICENE381",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "C06-03",
+    "section": "profile",
+    "domain": "기독론",
+    "topic_id": "C06",
+    "claim_id": "C06.claim3",
+    "kind": "likert",
+    "statement": "부활 신앙을 단순한 희망의 상징으로만 환원하면 신약의 중요한 주장을 놓친다.",
+    "source_ids": [
+      "NICENE381",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "P01-01",
+    "section": "profile",
+    "domain": "성령론",
+    "topic_id": "P01",
+    "claim_id": "P01.claim1",
+    "kind": "likert",
+    "statement": "성령은 신자에게 가르치시고 말씀하시며 인도하시는 인격적인 분이다.",
+    "source_ids": [
+      "NICENE381",
+      "AG_SFT"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "P01-02",
+    "section": "profile",
+    "domain": "성령론",
+    "topic_id": "P01",
+    "claim_id": "P01.claim2",
+    "kind": "likert",
+    "statement": "성령은 성부와 성자에게 속한 신적 힘이지 별개의 위격은 아니라고 생각한다.",
+    "source_ids": [
+      "NICENE381",
+      "AG_SFT"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "P01-03",
+    "section": "profile",
+    "domain": "성령론",
+    "topic_id": "P01",
+    "claim_id": "P01.claim3",
+    "kind": "likert",
+    "statement": "성령의 사역을 말할 때 신적 인격성과 거룩하게 하시는 능력을 함께 인정해야 한다.",
+    "source_ids": [
+      "NICENE381",
+      "AG_SFT"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "P02-01",
+    "section": "profile",
+    "domain": "성령론",
+    "topic_id": "P02",
+    "claim_id": "P02.claim1",
+    "kind": "likert",
+    "statement": "예수 그리스도를 믿고 거듭나는 모든 신자는 이미 성령을 받았다고 생각한다.",
+    "source_ids": [
+      "NAZ_ART",
+      "AG_SFT",
+      "WCF"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "P02-02",
+    "section": "profile",
+    "domain": "성령론",
+    "topic_id": "P02",
+    "claim_id": "P02.claim2",
+    "kind": "likert",
+    "statement": "중생한 뒤에 사역의 능력을 위한 구별된 성령세례가 일어날 수 있다.",
+    "source_ids": [
+      "NAZ_ART",
+      "AG_SFT",
+      "WCF"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "P02-03",
+    "section": "profile",
+    "domain": "성령론",
+    "topic_id": "P02",
+    "claim_id": "P02.claim3",
+    "kind": "likert",
+    "statement": "중생 이후에도 특별한 성령의 충만을 반복하여 경험할 수 있다.",
+    "source_ids": [
+      "NAZ_ART",
+      "AG_SFT",
+      "WCF"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "P03-01",
+    "section": "profile",
+    "domain": "성령론",
+    "topic_id": "P03",
+    "claim_id": "P03.claim1",
+    "kind": "likert",
+    "statement": "성령세례를 받은 사람에게는 첫 번째 외적 증거로 방언이 나타난다.",
+    "source_ids": [
+      "AG_SFT",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "P03-02",
+    "section": "profile",
+    "domain": "성령론",
+    "topic_id": "P03",
+    "claim_id": "P03.claim2",
+    "kind": "likert",
+    "statement": "방언은 성령의 은사 가운데 하나지만 모든 신자에게 반드시 필요한 것은 아니다.",
+    "source_ids": [
+      "AG_SFT",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "P03-03",
+    "section": "profile",
+    "domain": "성령론",
+    "topic_id": "P03",
+    "claim_id": "P03.claim3",
+    "kind": "likert",
+    "statement": "방언을 한 번도 하지 않았더라도 성령으로 충만한 삶을 살 수 있다고 생각한다.",
+    "source_ids": [
+      "AG_SFT",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "P04-01",
+    "section": "profile",
+    "domain": "성령론",
+    "topic_id": "P04",
+    "claim_id": "P04.claim1",
+    "kind": "likert",
+    "statement": "예언과 치유와 방언 같은 은사는 오늘날에도 성령께서 주실 수 있다.",
+    "source_ids": [
+      "AG_SFT",
+      "WCF"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "P04-02",
+    "section": "profile",
+    "domain": "성령론",
+    "topic_id": "P04",
+    "claim_id": "P04.claim2",
+    "kind": "likert",
+    "statement": "사도 시대에 있었던 일부 특별한 계시적·기적적 은사는 오늘날 일반적인 교회생활에 지속되지 않는다.",
+    "source_ids": [
+      "AG_SFT",
+      "WCF"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "P04-03",
+    "section": "profile",
+    "domain": "성령론",
+    "topic_id": "P04",
+    "claim_id": "P04.claim3",
+    "kind": "likert",
+    "statement": "현대 교회가 치유와 특별한 은사를 적극적으로 구하고 사용하는 것은 바람직하다.",
+    "source_ids": [
+      "AG_SFT",
+      "WCF"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "P05-01",
+    "section": "profile",
+    "domain": "성령론",
+    "topic_id": "P05",
+    "claim_id": "P05.claim1",
+    "kind": "likert",
+    "statement": "개인이 하나님의 말씀이라고 주장하는 내용도 성경의 가르침에 비추어 검증받아야 한다.",
+    "source_ids": [
+      "WCF",
+      "AG_SFT"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "P05-02",
+    "section": "profile",
+    "domain": "성령론",
+    "topic_id": "P05",
+    "claim_id": "P05.claim2",
+    "kind": "likert",
+    "statement": "오늘날의 개인적 예언은 성경의 가르침을 수정하거나 대체할 수 있다고 생각한다.",
+    "source_ids": [
+      "WCF",
+      "AG_SFT"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "P05-03",
+    "section": "profile",
+    "domain": "성령론",
+    "topic_id": "P05",
+    "claim_id": "P05.claim3",
+    "kind": "likert",
+    "statement": "영적 경험의 판단에는 개인의 확신뿐 아니라 교회 공동체의 분별이 필요하다.",
+    "source_ids": [
+      "WCF",
+      "AG_SFT"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "P06-01",
+    "section": "profile",
+    "domain": "성령론",
+    "topic_id": "P06",
+    "claim_id": "P06.claim1",
+    "kind": "likert",
+    "statement": "성령 충만의 중요한 증거는 신자의 사랑과 거룩한 인격의 변화다.",
+    "source_ids": [
+      "NAZ_ART",
+      "AG_SFT",
+      "OCA_THEOSIS"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "P06-02",
+    "section": "profile",
+    "domain": "성령론",
+    "topic_id": "P06",
+    "claim_id": "P06.claim2",
+    "kind": "likert",
+    "statement": "성령은 교회에 복음 증거를 위한 담대함과 사역 능력을 주신다.",
+    "source_ids": [
+      "NAZ_ART",
+      "AG_SFT",
+      "OCA_THEOSIS"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "P06-03",
+    "section": "profile",
+    "domain": "성령론",
+    "topic_id": "P06",
+    "claim_id": "P06.claim3",
+    "kind": "likert",
+    "statement": "성령의 역사는 교회가 불의와 분열을 치유하고 화해를 이루는 과정에서도 드러난다.",
+    "source_ids": [
+      "NAZ_ART",
+      "AG_SFT",
+      "OCA_THEOSIS"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "E01-01",
+    "section": "profile",
+    "domain": "교회론",
+    "topic_id": "E01",
+    "claim_id": "E01.claim1",
+    "kind": "likert",
+    "statement": "사도들로부터 이어진 주교직의 연속성이 교회의 정체성을 지탱하는 중요한 표지다.",
+    "source_ids": [
+      "NICENE381",
+      "CCC_TRINITY",
+      "OCA_TRINITY"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "E01-02",
+    "section": "profile",
+    "domain": "교회론",
+    "topic_id": "E01",
+    "claim_id": "E01.claim2",
+    "kind": "likert",
+    "statement": "사도들의 가르침을 충실하게 보존하는 것이 교회의 사도성에 필수적이다.",
+    "source_ids": [
+      "NICENE381",
+      "CCC_TRINITY",
+      "OCA_TRINITY"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "E01-03",
+    "section": "profile",
+    "domain": "교회론",
+    "topic_id": "E01",
+    "claim_id": "E01.claim3",
+    "kind": "likert",
+    "statement": "그리스도의 교회가 실제로 드러나는 가시적인 일치는 중요한 신앙의 과제다.",
+    "source_ids": [
+      "NICENE381",
+      "CCC_TRINITY",
+      "OCA_TRINITY"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "E02-01",
+    "section": "profile",
+    "domain": "교회론",
+    "topic_id": "E02",
+    "claim_id": "E02.claim1",
+    "kind": "likert",
+    "statement": "교회의 중요한 결정을 주교와 감독의 권위에 따라 내리는 것이 바람직하다.",
+    "source_ids": [
+      "WCF",
+      "BAPTIST_BFM",
+      "METHODIST_ART"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "E02-02",
+    "section": "profile",
+    "domain": "교회론",
+    "topic_id": "E02",
+    "claim_id": "E02.claim2",
+    "kind": "likert",
+    "statement": "장로들이 대표로 모여 회의를 통해 교회를 함께 다스리는 것이 적절하다.",
+    "source_ids": [
+      "WCF",
+      "BAPTIST_BFM",
+      "METHODIST_ART"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "E02-03",
+    "section": "profile",
+    "domain": "교회론",
+    "topic_id": "E02",
+    "claim_id": "E02.claim3",
+    "kind": "likert",
+    "statement": "교인들이 공동의 결정으로 지역 교회의 주요 사항을 최종 판단해야 한다.",
+    "source_ids": [
+      "WCF",
+      "BAPTIST_BFM",
+      "METHODIST_ART"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "E03-01",
+    "section": "profile",
+    "domain": "교회론",
+    "topic_id": "E03",
+    "claim_id": "E03.claim1",
+    "kind": "likert",
+    "statement": "그리스도교 가정의 영아에게도 세례를 베풀 수 있다고 생각한다.",
+    "source_ids": [
+      "WCF",
+      "BAPTIST_BFM",
+      "METHODIST_ART",
+      "CCC_BAPTISM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "E03-02",
+    "section": "profile",
+    "domain": "교회론",
+    "topic_id": "E03",
+    "claim_id": "E03.claim2",
+    "kind": "likert",
+    "statement": "세례는 자신의 믿음을 명확하게 고백하는 사람에게만 베풀어야 한다.",
+    "source_ids": [
+      "WCF",
+      "BAPTIST_BFM",
+      "METHODIST_ART",
+      "CCC_BAPTISM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "E03-03",
+    "section": "profile",
+    "domain": "교회론",
+    "topic_id": "E03",
+    "claim_id": "E03.claim3",
+    "kind": "likert",
+    "statement": "세례를 베풀 때 물에 완전히 잠기는 방식이 반드시 필요하다고 생각한다.",
+    "source_ids": [
+      "WCF",
+      "BAPTIST_BFM",
+      "METHODIST_ART",
+      "CCC_BAPTISM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "E04-01",
+    "section": "profile",
+    "domain": "교회론",
+    "topic_id": "E04",
+    "claim_id": "E04.claim1",
+    "kind": "likert",
+    "statement": "하나님은 세례를 신자에게 은총을 베푸시는 실제적인 수단으로 사용하신다.",
+    "source_ids": [
+      "METHODIST_ART",
+      "WCF",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "E04-02",
+    "section": "profile",
+    "domain": "교회론",
+    "topic_id": "E04",
+    "claim_id": "E04.claim2",
+    "kind": "likert",
+    "statement": "세례는 이미 주어진 구원을 공적으로 표시하는 행위일 뿐 그 자체로 은총을 전달하지 않는다.",
+    "source_ids": [
+      "METHODIST_ART",
+      "WCF",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "E04-03",
+    "section": "profile",
+    "domain": "교회론",
+    "topic_id": "E04",
+    "claim_id": "E04.claim3",
+    "kind": "likert",
+    "statement": "세례는 그리스도와의 연합과 교회 공동체에 속함을 드러내는 실천이다.",
+    "source_ids": [
+      "METHODIST_ART",
+      "WCF",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "E05-01",
+    "section": "profile",
+    "domain": "교회론",
+    "topic_id": "E05",
+    "claim_id": "E05.claim1",
+    "kind": "likert",
+    "statement": "성찬에서 빵과 포도주의 실체가 그리스도의 몸과 피로 변화한다고 생각한다.",
+    "source_ids": [
+      "WCF",
+      "METHODIST_ART",
+      "OCA_TRINITY",
+      "CCC_EUCHARIST",
+      "OCA_EUCHARIST"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "E05-02",
+    "section": "profile",
+    "domain": "교회론",
+    "topic_id": "E05",
+    "claim_id": "E05.claim2",
+    "kind": "likert",
+    "statement": "성찬에서 그리스도께서 단순한 기억 이상의 방식으로 참되게 임재하신다.",
+    "source_ids": [
+      "WCF",
+      "METHODIST_ART",
+      "OCA_TRINITY",
+      "CCC_EUCHARIST",
+      "OCA_EUCHARIST"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "E05-03",
+    "section": "profile",
+    "domain": "교회론",
+    "topic_id": "E05",
+    "claim_id": "E05.claim3",
+    "kind": "likert",
+    "statement": "성찬은 십자가를 기념하는 상징적 행위이며 특별한 실제적 임재가 필수는 아니다.",
+    "source_ids": [
+      "WCF",
+      "METHODIST_ART",
+      "OCA_TRINITY",
+      "CCC_EUCHARIST",
+      "OCA_EUCHARIST"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "E06-01",
+    "section": "profile",
+    "domain": "교회론",
+    "topic_id": "E06",
+    "claim_id": "E06.claim1",
+    "kind": "likert",
+    "statement": "바른 말씀의 선포와 성례 시행은 교회를 교회답게 만드는 중요한 표지다.",
+    "source_ids": [
+      "WCF",
+      "BAPTIST_BFM",
+      "METHODIST_ART"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "E06-02",
+    "section": "profile",
+    "domain": "교회론",
+    "topic_id": "E06",
+    "claim_id": "E06.claim2",
+    "kind": "likert",
+    "statement": "교회는 신자들이 서로를 책임지고 자발적으로 제자도를 실천하는 공동체여야 한다.",
+    "source_ids": [
+      "WCF",
+      "BAPTIST_BFM",
+      "METHODIST_ART"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "E06-03",
+    "section": "profile",
+    "domain": "교회론",
+    "topic_id": "E06",
+    "claim_id": "E06.claim3",
+    "kind": "likert",
+    "statement": "교회의 본질적인 사명에는 복음 선포뿐 아니라 정의와 화해를 위한 사회적 책임도 포함된다.",
+    "source_ids": [
+      "WCF",
+      "BAPTIST_BFM",
+      "METHODIST_ART"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "Z01-01",
+    "section": "profile",
+    "domain": "종말론",
+    "topic_id": "Z01",
+    "claim_id": "Z01.claim1",
+    "kind": "likert",
+    "statement": "예수 그리스도께서는 역사 속에 실제로 인격적이고 가시적으로 다시 오실 것이다.",
+    "source_ids": [
+      "NICENE381",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "Z01-02",
+    "section": "profile",
+    "domain": "종말론",
+    "topic_id": "Z01",
+    "claim_id": "Z01.claim2",
+    "kind": "likert",
+    "statement": "그리스도의 재림은 교회의 희망을 가리키는 상징이지 미래에 실제로 일어날 사건은 아니다.",
+    "source_ids": [
+      "NICENE381",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "Z01-03",
+    "section": "profile",
+    "domain": "종말론",
+    "topic_id": "Z01",
+    "claim_id": "Z01.claim3",
+    "kind": "likert",
+    "statement": "그리스도의 재림 시기를 특정 날짜로 계산해 확실히 예고할 수 있다고 생각한다.",
+    "source_ids": [
+      "NICENE381",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "Z02-01",
+    "section": "profile",
+    "domain": "종말론",
+    "topic_id": "Z02",
+    "claim_id": "Z02.claim1",
+    "kind": "likert",
+    "statement": "죽은 사람들은 마지막 날 몸의 부활을 경험하게 될 것이다.",
+    "source_ids": [
+      "NICENE381",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "Z02-02",
+    "section": "profile",
+    "domain": "종말론",
+    "topic_id": "Z02",
+    "claim_id": "Z02.claim2",
+    "kind": "likert",
+    "statement": "구원의 완성은 영혼만의 생존이 아니라 하나님이 창조 세계를 새롭게 하시는 사건이다.",
+    "source_ids": [
+      "NICENE381",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "Z02-03",
+    "section": "profile",
+    "domain": "종말론",
+    "topic_id": "Z02",
+    "claim_id": "Z02.claim3",
+    "kind": "likert",
+    "statement": "최후의 소망에는 몸의 부활이 필요하지 않고 영혼의 불멸만 있으면 충분하다.",
+    "source_ids": [
+      "NICENE381",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "Z03-01",
+    "section": "profile",
+    "domain": "종말론",
+    "topic_id": "Z03",
+    "claim_id": "Z03.claim1",
+    "kind": "likert",
+    "statement": "요한계시록의 천 년은 현재 교회 시대에 일어나는 그리스도의 통치를 상징한다고 본다.",
+    "source_ids": [
+      "WCF",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "Z03-02",
+    "section": "profile",
+    "domain": "종말론",
+    "topic_id": "Z03",
+    "claim_id": "Z03.claim2",
+    "kind": "likert",
+    "statement": "그리스도께서 재림하신 뒤에 미래의 천년왕국이 시작된다고 생각한다.",
+    "source_ids": [
+      "WCF",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "Z03-03",
+    "section": "profile",
+    "domain": "종말론",
+    "topic_id": "Z03",
+    "claim_id": "Z03.claim3",
+    "kind": "likert",
+    "statement": "복음의 역사적 확장을 통한 왕국의 진전 이후 그리스도의 재림이 올 것이라고 생각한다.",
+    "source_ids": [
+      "WCF",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "Z04-01",
+    "section": "profile",
+    "domain": "종말론",
+    "topic_id": "Z04",
+    "claim_id": "Z04.claim1",
+    "kind": "likert",
+    "statement": "큰 환난 이전에 교회가 비밀리에 들림 받는 사건이 있다고 생각한다.",
+    "source_ids": [
+      "AG_SFT",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "Z04-02",
+    "section": "profile",
+    "domain": "종말론",
+    "topic_id": "Z04",
+    "claim_id": "Z04.claim2",
+    "kind": "likert",
+    "statement": "교회는 마지막 환난을 겪을 수 있으며 이후 재림하시는 그리스도를 맞이한다고 본다.",
+    "source_ids": [
+      "AG_SFT",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "Z04-03",
+    "section": "profile",
+    "domain": "종말론",
+    "topic_id": "Z04",
+    "claim_id": "Z04.claim3",
+    "kind": "likert",
+    "statement": "휴거를 별도로 은밀하게 일어나는 사건으로 구분하지 않고 그리스도의 재림과 연결한다.",
+    "source_ids": [
+      "AG_SFT",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "Z05-01",
+    "section": "profile",
+    "domain": "종말론",
+    "topic_id": "Z05",
+    "claim_id": "Z05.claim1",
+    "kind": "likert",
+    "statement": "최후 심판 후 구원받지 못한 사람에게 영원한 의식적인 형벌이 따른다고 생각한다.",
+    "source_ids": [
+      "BAPTIST_BFM",
+      "WCF"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "Z05-02",
+    "section": "profile",
+    "domain": "종말론",
+    "topic_id": "Z05",
+    "claim_id": "Z05.claim2",
+    "kind": "likert",
+    "statement": "최후 심판의 결과로 악인은 궁극적으로 소멸한다고 생각한다.",
+    "source_ids": [
+      "BAPTIST_BFM",
+      "WCF"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "Z05-03",
+    "section": "profile",
+    "domain": "종말론",
+    "topic_id": "Z05",
+    "claim_id": "Z05.claim3",
+    "kind": "likert",
+    "statement": "종국에는 하나님의 은총이 모든 사람을 실제로 구원한다고 확신한다.",
+    "source_ids": [
+      "BAPTIST_BFM",
+      "WCF"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "Z06-01",
+    "section": "profile",
+    "domain": "종말론",
+    "topic_id": "Z06",
+    "claim_id": "Z06.claim1",
+    "kind": "likert",
+    "statement": "구약에 나타난 하나님의 백성에 대한 약속은 그리스도 안에서 하나의 백성을 이루며 성취된다고 본다.",
+    "source_ids": [
+      "WCF",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "Z06-02",
+    "section": "profile",
+    "domain": "종말론",
+    "topic_id": "Z06",
+    "claim_id": "Z06.claim2",
+    "kind": "likert",
+    "statement": "민족 이스라엘에 관한 하나님의 특별한 미래 계획이 남아 있다고 생각한다.",
+    "source_ids": [
+      "WCF",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "Z06-03",
+    "section": "profile",
+    "domain": "종말론",
+    "topic_id": "Z06",
+    "claim_id": "Z06.claim3",
+    "kind": "likert",
+    "statement": "이스라엘과 교회를 향한 하나님의 시대별 경륜과 역사적 역할은 구별되어야 한다.",
+    "source_ids": [
+      "WCF",
+      "BAPTIST_BFM"
+    ],
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "독립적 주장; 다른 주장과 동시 긍정 가능. 토픽을 단일 평균 점수로 축약하지 말 것."
+  },
+  {
+    "id": "K01",
+    "section": "creedal",
+    "domain": "신론",
+    "topic_id": null,
+    "claim_id": "creedal.k01",
+    "kind": "likert",
+    "statement": "한 분 하나님 안에 성부·성자·성령의 세 위격이 참으로 구별되어 영원히 계신다.",
+    "source_ids": [
+      "NICENE381"
+    ],
+    "source_clause": "Triune identity",
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "공교회 역사적 신조의 고백과 대조하되 개인/공동체에 이단 낙인 금지."
+  },
+  {
+    "id": "K02",
+    "section": "creedal",
+    "domain": "신론",
+    "topic_id": null,
+    "claim_id": "creedal.k02",
+    "kind": "likert",
+    "statement": "성부·성자·성령은 서로 다른 세 신이 아니라 한 하나님이시다.",
+    "source_ids": [
+      "NICENE381"
+    ],
+    "source_clause": "one God",
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "공교회 역사적 신조의 고백과 대조하되 개인/공동체에 이단 낙인 금지."
+  },
+  {
+    "id": "K03",
+    "section": "creedal",
+    "domain": "신론",
+    "topic_id": null,
+    "claim_id": "creedal.k03",
+    "kind": "likert",
+    "statement": "성자는 피조물이 아니라 영원부터 계신 참 하나님이시다.",
+    "source_ids": [
+      "NICENE381"
+    ],
+    "source_clause": "uncreated Son",
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "공교회 역사적 신조의 고백과 대조하되 개인/공동체에 이단 낙인 금지."
+  },
+  {
+    "id": "K04",
+    "section": "creedal",
+    "domain": "신론",
+    "topic_id": null,
+    "claim_id": "creedal.k04",
+    "kind": "likert",
+    "statement": "성령은 성부 및 성자와 함께 예배와 영광을 받으시는 주님이시다.",
+    "source_ids": [
+      "NICENE381"
+    ],
+    "source_clause": "Spirit deity",
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "공교회 역사적 신조의 고백과 대조하되 개인/공동체에 이단 낙인 금지."
+  },
+  {
+    "id": "K05",
+    "section": "creedal",
+    "domain": "기독론",
+    "topic_id": null,
+    "claim_id": "creedal.k05",
+    "kind": "likert",
+    "statement": "예수 그리스도는 성부와 동일한 신성을 지닌 참 하나님이시다.",
+    "source_ids": [
+      "NICENE381"
+    ],
+    "source_clause": "Christ divine nature",
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "공교회 역사적 신조의 고백과 대조하되 개인/공동체에 이단 낙인 금지."
+  },
+  {
+    "id": "K06",
+    "section": "creedal",
+    "domain": "기독론",
+    "topic_id": null,
+    "claim_id": "creedal.k06",
+    "kind": "likert",
+    "statement": "예수 그리스도는 단지 사람처럼 보인 것이 아니라 온전한 인간 본성을 지니셨다.",
+    "source_ids": [
+      "CHALCEDON451"
+    ],
+    "source_clause": "Christ full humanity",
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "공교회 역사적 신조의 고백과 대조하되 개인/공동체에 이단 낙인 금지."
+  },
+  {
+    "id": "K07",
+    "section": "creedal",
+    "domain": "기독론",
+    "topic_id": null,
+    "claim_id": "creedal.k07",
+    "kind": "likert",
+    "statement": "예수 그리스도는 한 위격 안에서 참 하나님이시며 참 인간이시다.",
+    "source_ids": [
+      "CHALCEDON451"
+    ],
+    "source_clause": "one person true God and human",
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "공교회 역사적 신조의 고백과 대조하되 개인/공동체에 이단 낙인 금지."
+  },
+  {
+    "id": "K08",
+    "section": "creedal",
+    "domain": "기독론",
+    "topic_id": null,
+    "claim_id": "creedal.k08",
+    "kind": "likert",
+    "statement": "예수 그리스도는 실제로 십자가에서 죽으시고 부활하셨다.",
+    "source_ids": [
+      "NICENE381"
+    ],
+    "source_clause": "passion and resurrection",
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "공교회 역사적 신조의 고백과 대조하되 개인/공동체에 이단 낙인 금지."
+  },
+  {
+    "id": "K09",
+    "section": "creedal",
+    "domain": "기독론",
+    "topic_id": null,
+    "claim_id": "creedal.k09",
+    "kind": "likert",
+    "statement": "예수 그리스도는 실제로 몸으로 부활하셨다.",
+    "source_ids": [
+      "NICENE381"
+    ],
+    "source_clause": "Christ risen",
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "공교회 역사적 신조의 고백과 대조하되 개인/공동체에 이단 낙인 금지."
+  },
+  {
+    "id": "K10",
+    "section": "creedal",
+    "domain": "종말론",
+    "topic_id": null,
+    "claim_id": "creedal.k10",
+    "kind": "likert",
+    "statement": "그리스도께서 장차 인격적이고 영광스럽게 다시 오실 것을 믿는다.",
+    "source_ids": [
+      "NICENE381"
+    ],
+    "source_clause": "return",
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "공교회 역사적 신조의 고백과 대조하되 개인/공동체에 이단 낙인 금지."
+  },
+  {
+    "id": "K11",
+    "section": "creedal",
+    "domain": "종말론",
+    "topic_id": null,
+    "claim_id": "creedal.k11",
+    "kind": "likert",
+    "statement": "하나님께서는 마지막에 죽은 사람들을 부활시키실 것이다.",
+    "source_ids": [
+      "NICENE381"
+    ],
+    "source_clause": "resurrection of dead",
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "공교회 역사적 신조의 고백과 대조하되 개인/공동체에 이단 낙인 금지."
+  },
+  {
+    "id": "K12",
+    "section": "creedal",
+    "domain": "교회론",
+    "topic_id": null,
+    "claim_id": "creedal.k12",
+    "kind": "likert",
+    "statement": "하나의 거룩하고 보편적이며 사도적인 교회에 관한 신앙고백을 긍정한다.",
+    "source_ids": [
+      "NICENE381"
+    ],
+    "source_clause": "one holy catholic apostolic church",
+    "review_status": "needs_subject_matter_review",
+    "reverse": false,
+    "answer_options": "likert5_plus_unknown",
+    "authoring_note": "공교회 역사적 신조의 고백과 대조하되 개인/공동체에 이단 낙인 금지."
+  }
+]

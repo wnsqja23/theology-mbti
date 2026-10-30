@@ -13,10 +13,11 @@ export default async function handler(req, res) {
   res.setHeader('X-Content-Type-Options', 'nosniff');
   res.setHeader('Referrer-Policy', 'no-referrer');
   try {
-    if (req.method === 'GET' && req.url === '/api/questions') return json(res, 200, questions());
-    if (req.method === 'GET' && req.url === '/api/sources') return json(res, 200, { sources, audit: audit() });
-    if (req.method === 'GET' && req.url === '/api/editor') return json(res, 200, { items, extras, topics, sources, relations, audit: audit() });
-    if (req.method === 'POST' && req.url === '/api/results') {
+    const pathname = new URL(req.url || '/', 'https://vercel.local').pathname;
+    if (req.method === 'GET' && pathname.endsWith('/questions')) return json(res, 200, questions());
+    if (req.method === 'GET' && pathname.endsWith('/sources')) return json(res, 200, { sources, audit: audit() });
+    if (req.method === 'GET' && pathname.endsWith('/editor')) return json(res, 200, { items, extras, topics, sources, relations, audit: audit() });
+    if (req.method === 'POST' && pathname.endsWith('/results')) {
       let body = '';
       for await (const chunk of req) { body += chunk; if (Buffer.byteLength(body) > 1_000_000) return json(res, 413, { error: '파일이 너무 큽니다.' }); }
       const parsed = parseImport(body, { items, conditionalItems: extras });

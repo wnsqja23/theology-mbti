@@ -4,64 +4,20 @@
     "name": "개혁파 — 웨스트민스터 신앙고백 기준",
     "primary_source_id": "WCF",
     "claim_stances": [
-      {
-        "claim_id": "G05.claim1",
-        "stance": 1,
-        "source_id": "WCF",
-        "paragraph": "REQUIRES_CLAUSE_VALIDATION"
-      },
-      {
-        "claim_id": "H02.claim1",
-        "stance": 1,
-        "source_id": "WCF",
-        "paragraph": "REQUIRES_CLAUSE_VALIDATION"
-      },
-      {
-        "claim_id": "H02.claim2",
-        "stance": 1,
-        "source_id": "WCF",
-        "paragraph": "REQUIRES_CLAUSE_VALIDATION"
-      },
-      {
-        "claim_id": "H03.claim2",
-        "stance": 1,
-        "source_id": "WCF",
-        "paragraph": "REQUIRES_CLAUSE_VALIDATION"
-      },
-      {
-        "claim_id": "H04.claim1",
-        "stance": 1,
-        "source_id": "WCF",
-        "paragraph": "REQUIRES_CLAUSE_VALIDATION"
-      },
-      {
-        "claim_id": "H05.claim1",
-        "stance": 1,
-        "source_id": "WCF",
-        "paragraph": "REQUIRES_CLAUSE_VALIDATION"
-      },
-      {
-        "claim_id": "H06.claim2",
-        "stance": 1,
-        "source_id": "WCF",
-        "paragraph": "REQUIRES_CLAUSE_VALIDATION"
-      },
-      {
-        "claim_id": "E03.claim1",
-        "stance": 1,
-        "source_id": "WCF",
-        "paragraph": "REQUIRES_CLAUSE_VALIDATION"
-      },
-      {
-        "claim_id": "E05.claim2",
-        "stance": 1,
-        "source_id": "WCF",
-        "paragraph": "REQUIRES_CLAUSE_VALIDATION"
-      }
+      {"claim_id":"G01.claim1","stance":1,"source_id":"WCF","paragraph":"Chapter 2 §3"},
+      {"claim_id":"C01.claim1","stance":1,"source_id":"WCF","paragraph":"Chapter 8 §2"},
+      {"claim_id":"H02.claim2","stance":1,"source_id":"WCF","paragraph":"Chapter 6 §4"},
+      {"claim_id":"H03.claim2","stance":1,"source_id":"WCF","paragraph":"Chapter 9 §3–4"},
+      {"claim_id":"H04.claim3","stance":-1,"source_id":"WCF","paragraph":"Chapter 10 §1–2","weight":3},
+      {"claim_id":"H05.claim1","stance":1,"source_id":"WCF","paragraph":"Chapter 11 §1–2"},
+      {"claim_id":"H06.claim1","stance":-1,"source_id":"WCF","paragraph":"Chapter 13 §2–3","weight":3},
+      {"claim_id":"E03.claim1","stance":1,"source_id":"WCF","paragraph":"Chapter 28 §4"},
+      {"claim_id":"E05.claim2","stance":1,"source_id":"WCF","paragraph":"Chapter 29 §7"},
+      {"claim_id":"Z01.claim1","stance":1,"source_id":"WCF","paragraph":"Chapter 8 §4; Chapter 33 §1"}
     ],
-    "status": "provisional_clause_review",
-    "can_auto_rank": false,
-    "notes": "공식 자료 원문 조항별 재검토 전에는 자동 순위 비활성화"
+    "status": "approved_clause_level",
+    "can_auto_rank": true,
+    "notes": "웨스트민스터 신앙고백 전문에서 공통 비교 10개 조항을 확인함. 탐색적 친연성에만 사용."
   },
   {
     "id": "methodist_articles",
@@ -120,34 +76,20 @@
     "name": "웨슬리안 성결 — 나사렛교회 기준",
     "primary_source_id": "NAZ_ART",
     "claim_stances": [
-      {
-        "claim_id": "G01.claim1",
-        "stance": 1,
-        "source_id": "NAZ_ART",
-        "paragraph": "REQUIRES_CLAUSE_VALIDATION"
-      },
-      {
-        "claim_id": "H06.claim1",
-        "stance": 1,
-        "source_id": "NAZ_ART",
-        "paragraph": "REQUIRES_CLAUSE_VALIDATION"
-      },
-      {
-        "claim_id": "H06.claim2",
-        "stance": 1,
-        "source_id": "NAZ_ART",
-        "paragraph": "REQUIRES_CLAUSE_VALIDATION"
-      },
-      {
-        "claim_id": "P06.claim1",
-        "stance": 1,
-        "source_id": "NAZ_ART",
-        "paragraph": "REQUIRES_CLAUSE_VALIDATION"
-      }
+      {"claim_id":"G01.claim1","stance":1,"source_id":"NAZ_ART","paragraph":"Article I — The Triune God"},
+      {"claim_id":"C01.claim1","stance":1,"source_id":"NAZ_ART","paragraph":"Article II — Jesus Christ"},
+      {"claim_id":"H02.claim2","stance":1,"source_id":"NAZ_ART","paragraph":"Article V — Sin, Original and Personal"},
+      {"claim_id":"H03.claim2","stance":1,"source_id":"NAZ_ART","paragraph":"Article VII — Prevenient Grace"},
+      {"claim_id":"H04.claim3","stance":1,"source_id":"NAZ_ART","paragraph":"Article VII — Prevenient Grace","weight":3},
+      {"claim_id":"H05.claim1","stance":1,"source_id":"NAZ_ART","paragraph":"Article IX — Justification, Regeneration, and Adoption"},
+      {"claim_id":"H06.claim1","stance":1,"source_id":"NAZ_ART","paragraph":"Article X–10.1 — Christian Holiness and Entire Sanctification","weight":3},
+      {"claim_id":"E03.claim1","stance":1,"source_id":"NAZ_ART","paragraph":"Article XII — Baptism"},
+      {"claim_id":"E05.claim2","stance":1,"source_id":"NAZ_ART","paragraph":"Article XIII — The Lord's Supper"},
+      {"claim_id":"Z01.claim1","stance":1,"source_id":"NAZ_ART","paragraph":"Article XV — Second Coming of Christ"}
     ],
-    "status": "provisional_clause_review",
-    "can_auto_rank": false,
-    "notes": "공식 자료 원문 조항별 재검토 전에는 자동 순위 비활성화"
+    "status": "approved_clause_level",
+    "can_auto_rank": true,
+    "notes": "나사렛교회 공식 신앙조항에서 공통 비교 10개 조항을 확인함. 탐색적 친연성에만 사용."
   },
   {
     "id": "lutheran_book_of_concord",

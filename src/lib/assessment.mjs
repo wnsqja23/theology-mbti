@@ -94,10 +94,13 @@ export function compareTraditions(traditions, claimSummaries, options = {}) {
   const commonClaimIds = participants.length ? [...participants[0].stances.keys()].filter(
     claimId => participants.every(participant => participant.stances.has(claimId)),
   ).sort() : [];
+  // The seed instrument intentionally has one independent item per claim. Those
+  // observations may support an exploratory document comparison, but never a
+  // settled identity label. Corroborated claim language still requires 2+ items.
   const observedClaimIds = commonClaimIds.filter(claimId => {
     const summary = summaries.get(claimId);
-    return summary && summary.evidenceCount >= 2 && summary.answeredCoverage >= .6 &&
-      ['observed_support', 'observed_opposition', 'neutral'].includes(summary.status) &&
+    return summary && summary.evidenceCount >= 1 && summary.answeredCoverage >= .6 &&
+      ['single_item', 'observed_support', 'observed_opposition', 'neutral'].includes(summary.status) &&
       Number.isFinite(summary.support) && Math.abs(summary.support) <= 1;
   });
   const coverage = commonClaimIds.length ? observedClaimIds.length / commonClaimIds.length : 0;
@@ -145,7 +148,7 @@ export function compareTraditions(traditions, claimSummaries, options = {}) {
   return {
     status: reasons.length ? 'withheld' : mixed ? 'mixed_profile' : 'exploratory',
     reasons, commonClaimIds, observedClaimIds, coverage, domainCount: observedDomains.size,
-    creedalCoverage, results, topMatches,
+    creedalCoverage, singleItemBasis:true, results, topMatches,
   };
 }
 

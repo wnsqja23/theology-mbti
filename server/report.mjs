@@ -10,6 +10,7 @@ export function buildReport({items,topics,sources,traditions,theologians,relatio
   return {item,result,evidence,semanticReview:relations.find(r=>r.creedal_item_id===item.id)?.review_status||'missing',displayStatus:hasSource?result.status:'source_unverified'};
  });
  // Documentary inspection must not be promoted into expert approval automatically.
- const options={items,answers,approvedSourceIds:[],verifiedClauses:[]};
+ const traditionVerification=verification.tradition_verification||{approved_source_ids:[],clauses:[]};
+ const options={items,answers,approvedSourceIds:traditionVerification.approved_source_ids||[],verifiedClauses:traditionVerification.clauses||[]};
  return {positionMap:buildPositionMap(items,topics,answers),claims,creedal,items,topics,sources,traditions,theologians,relations,comparison:compareTraditions(traditions,claims,options),scholarComparison:compareTheologians(theologians,claims,options),audit:verification};
 }

@@ -2,7 +2,7 @@ import fs from 'node:fs';
 import {fileURLToPath} from 'node:url';
 const read=name=>JSON.parse(fs.readFileSync(new URL(`../data/${name}.json`,import.meta.url),'utf8'));
 export const items=read('items'),topics=read('topics'),extras=read('conditional_items'),sources=read('sources'),traditions=read('traditions'),theologians=read('theologians'),relations=read('claim_links');
-export const audit=()=>{try{return read('source_verification')}catch{return {sources:[],creedal_evidence:[]}}};
+export const audit=()=>{try{return {...read('source_verification'),tradition_verification:read('verified_tradition_clauses')}}catch{return {sources:[],creedal_evidence:[],tradition_verification:{approved_source_ids:[],clauses:[]}}}};
 // Only these fields may leave the question boundary. No analysis modules are imported by the client.
 export function questions(){
  const ordered=[];

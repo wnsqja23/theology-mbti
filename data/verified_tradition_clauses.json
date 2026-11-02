@@ -1,0 +1,28 @@
+{
+  "verified_at": "2026-11-03",
+  "method": "공식 교단 문서 또는 해당 신앙고백 전문을 조항 단위로 대조함. 문항 문구의 타당도 승인이 아니라 문헌상 입장 연결의 확인임.",
+  "approved_source_ids": ["WCF", "NAZ_ART"],
+  "clauses": [
+    {"claim_id":"G01.claim1","source_id":"WCF","paragraph":"Chapter 2 §3","status":"approved_clause_level"},
+    {"claim_id":"C01.claim1","source_id":"WCF","paragraph":"Chapter 8 §2","status":"approved_clause_level"},
+    {"claim_id":"H02.claim2","source_id":"WCF","paragraph":"Chapter 6 §4","status":"approved_clause_level"},
+    {"claim_id":"H03.claim2","source_id":"WCF","paragraph":"Chapter 9 §3–4","status":"approved_clause_level"},
+    {"claim_id":"H04.claim3","source_id":"WCF","paragraph":"Chapter 10 §1–2","status":"approved_clause_level"},
+    {"claim_id":"H05.claim1","source_id":"WCF","paragraph":"Chapter 11 §1–2","status":"approved_clause_level"},
+    {"claim_id":"H06.claim1","source_id":"WCF","paragraph":"Chapter 13 §2–3","status":"approved_clause_level"},
+    {"claim_id":"E03.claim1","source_id":"WCF","paragraph":"Chapter 28 §4","status":"approved_clause_level"},
+    {"claim_id":"E05.claim2","source_id":"WCF","paragraph":"Chapter 29 §7","status":"approved_clause_level"},
+    {"claim_id":"Z01.claim1","source_id":"WCF","paragraph":"Chapter 8 §4; Chapter 33 §1","status":"approved_clause_level"},
+
+    {"claim_id":"G01.claim1","source_id":"NAZ_ART","paragraph":"Article I — The Triune God","status":"approved_clause_level"},
+    {"claim_id":"C01.claim1","source_id":"NAZ_ART","paragraph":"Article II — Jesus Christ","status":"approved_clause_level"},
+    {"claim_id":"H02.claim2","source_id":"NAZ_ART","paragraph":"Article V — Sin, Original and Personal","status":"approved_clause_level"},
+    {"claim_id":"H03.claim2","source_id":"NAZ_ART","paragraph":"Article VII — Prevenient Grace","status":"approved_clause_level"},
+    {"claim_id":"H04.claim3","source_id":"NAZ_ART","paragraph":"Article VII — Prevenient Grace","status":"approved_clause_level"},
+    {"claim_id":"H05.claim1","source_id":"NAZ_ART","paragraph":"Article IX — Justification, Regeneration, and Adoption","status":"approved_clause_level"},
+    {"claim_id":"H06.claim1","source_id":"NAZ_ART","paragraph":"Article X–10.1 — Christian Holiness and Entire Sanctification","status":"approved_clause_level"},
+    {"claim_id":"E03.claim1","source_id":"NAZ_ART","paragraph":"Article XII — Baptism","status":"approved_clause_level"},
+    {"claim_id":"E05.claim2","source_id":"NAZ_ART","paragraph":"Article XIII — The Lord's Supper","status":"approved_clause_level"},
+    {"claim_id":"Z01.claim1","source_id":"NAZ_ART","paragraph":"Article XV — Second Coming of Christ","status":"approved_clause_level"}
+  ]
+}

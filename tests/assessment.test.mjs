@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { getAnswerState,claimObservation,compareTradition,creedalReview } from '../src/lib/assessment.mjs';
+import { getAnswerState,claimObservation,compareTradition,compareTraditions,creedalReview } from '../src/lib/assessment.mjs';
 
 test('unknown, neutral and unanswered never collapse',()=>{
  assert.equal(getAnswerState('unknown'),'unknown');
@@ -29,6 +29,20 @@ test('traditions stay unrankable until clause-level review',()=>{
 test('traditions with too little data never receive numerical matching',()=>{
  const r=compareTradition({id:'sample',status:'approved_clause_level',can_auto_rank:true,claim_stances:[{claim_id:'G01.claim1',stance:1,paragraph:'§1'}]},{'G01.claim1':1});
  assert.equal(r.status,'insufficient_data');assert.equal(r.similarity,null);
+});
+
+test('verified traditions may be compared exploratorily on a common single-item claim set',()=>{
+ const ids=['G01.claim1','C01.claim1','H02.claim2','H03.claim2','H04.claim3','H05.claim1','H06.claim1','E03.claim1'];
+ const traditions=['a','b'].map((id,index)=>({id,status:'approved_clause_level',can_auto_rank:true,claim_stances:ids.map(claim_id=>({claim_id,stance:index&&['H04.claim3','H06.claim1'].includes(claim_id)?-1:1,source_id:id,paragraph:`${id}-${claim_id}`}))}));
+ const summaries=ids.map(claimId=>({claimId,status:'single_item',support:1,evidenceCount:1,answeredCoverage:1}));
+ const items=ids.map((claim_id,index)=>({id:`I${index}`,claim_id,section:'profile',domain:['신론','기독론','인간론','교회론'][index%4]})).concat(Array.from({length:12},(_,index)=>({id:`K${index}`,section:'creedal'})));
+ const answers=Object.fromEntries(items.map(item=>[item.id,5]));
+ const verifiedClauses=traditions.flatMap(t=>t.claim_stances.map(s=>({...s,status:'approved_clause_level'})));
+ const result=compareTraditions(traditions,summaries,{items,answers,approvedSourceIds:['a','b'],verifiedClauses});
+ assert.notEqual(result.status,'withheld');
+ assert.equal(result.commonClaimIds.length,8);
+ assert.equal(result.singleItemBasis,true);
+ assert.equal(result.topMatches[0].traditionId,'a');
 });
 
 test('two independent equivalent negative claims can trigger only a review candidate',async()=>{

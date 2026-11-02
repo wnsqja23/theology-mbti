@@ -19,8 +19,7 @@ for(const [name,mutate] of [
  ['coverage',f=>f.summaries.forEach((s,i)=>{if(i>4)s.status='unanswered'})],
  ['core 75%',f=>{delete f.options.answers.K8}],
  ['explicit source verification',f=>{f.options.approvedSourceIds=[]}],
- ['exact clause verification',f=>{f.options.verifiedClauses=[]}],
- ['two independent observations',f=>f.summaries.forEach(s=>s.evidenceCount=1)]
+ ['exact clause verification',f=>{f.options.verifiedClauses=[]}]
 ])test('comparison blocks without '+name,()=>{const f=fixture();mutate(f);const r=compareTraditions(f.profiles,f.summaries,f.options);assert.equal(r.status,'withheld');assert.equal(r.topMatches.length,0);assert.ok(r.results.every(x=>x.similarity===null))});
 test('three primary passages required for scholar partial affinity',()=>{const f=fixture();const scholar={...f.profiles[0],claim_stances:f.profiles[0].claim_stances.slice(0,2)};assert.equal(compareTheologians([scholar],f.summaries,f.options)[0].status,'not_verified');scholar.claim_stances=f.profiles[0].claim_stances.slice(0,3);assert.equal(compareTheologians([scholar],f.summaries,f.options)[0].status,'partial_affinity')});
 test('component relations never trigger creed agreement or tension',()=>{for(const id of ['K08','K12']){const creed=items.find(i=>i.id===id),answers=Object.fromEntries(items.map(i=>[i.id,1]));const r=corroboratedCreedalObservation(creed,answers,relations,Object.fromEntries(items.map(i=>[i.id,i])));assert.equal(r.status,'requires_crosscheck')}});

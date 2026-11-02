@@ -47,6 +47,13 @@ const disagrees=(answers,id)=>answered(answers,id)&&answers[id]<=2;
 function buildAffinity(answers){
  const affinities=[];
  const add=(label,kind,reason,ids)=>affinities.push({label,kind,reason,itemIds:ids});
+ const traditionSignals=[
+  {id:'wesleyan',name:'웨슬리안·알미니안',short:'은혜에 응답하는 성화 전통',checks:[['H04-02',1],['H04-03',1],['H04-01',-1],['H06-01',1],['H06-02',1]]},
+  {id:'reformed',name:'개혁파·칼뱅주의',short:'효과적 은혜와 개혁파 교회 전통',checks:[['H04-01',1],['H04-03',-1],['E03-01',1],['E05-02',1]]},
+  {id:'pentecostal',name:'오순절·은사주의',short:'성령의 은사와 현재적 사역을 강조하는 전통',checks:[['P03-01',1],['P04-01',1],['P04-02',-1]]},
+  {id:'baptist',name:'침례교적 복음주의',short:'신앙고백자 세례를 강조하는 전통',checks:[['E03-02',1],['E03-01',-1],['E03-03',1]]},
+ ];
+ const traditionProfile=traditionSignals.map(t=>{const observed=t.checks.filter(([id])=>answered(answers,id));const matched=observed.filter(([id,direction])=>direction===1?agrees(answers,id):disagrees(answers,id)).length;return {...t,matched,observed,level:matched>=3?'강한 접점':matched>=2?'부분적 접점':'현재 근거 부족'};}).sort((a,b)=>b.matched-a.matched);
  if(agrees(answers,'H06-01')&&agrees(answers,'H06-02')) add('웨슬리안 성결주의적 성화 강조','신학적 경향','현세의 온전한 사랑과 평생 이어지는 성화를 함께 긍정한 응답','H06-01,H06-02'.split(','));
  if(agrees(answers,'H04-02')&&agrees(answers,'H04-03')&&disagrees(answers,'H04-01')) add('알미니안·웨슬리안적 은혜 응답 강조','신학적 경향','선행 은혜와 은혜에 대한 인간의 응답 가능성을 긍정하고, 효과적 부르심의 필연성에는 동의하지 않은 응답','H04-01,H04-02,H04-03'.split(','));
  if(agrees(answers,'H04-01')&&agrees(answers,'H04-02')&&disagrees(answers,'H04-03')) add('개혁파적 효과적 은혜 언어와 접점','신학적 경향','효과적으로 이끄는 은혜와 선행 은혜를 긍정하고 은혜의 거절 가능성에는 비동의한 응답','H04-01,H04-02,H04-03'.split(','));
@@ -59,7 +66,7 @@ function buildAffinity(answers){
  const theologians=[];
  if(agrees(answers,'H06-01')&&agrees(answers,'H06-02')) theologians.push({name:'존 웨슬리',label:'성결·온전한 사랑의 언어와 접점 후보',itemIds:['H06-01','H06-02']});
  if(agrees(answers,'H04-01')&&disagrees(answers,'H04-03')) theologians.push({name:'존 칼뱅',label:'효과적 은혜의 언어와 접점 후보',itemIds:['H04-01','H04-03']});
- return {affinities,theologians};
+ return {affinities,theologians,traditionProfile};
 }
 export function buildPositionMap(items, topics, answers) {
  const topicCards=topics.map(topic=>({id:topic.id,domain:topic.domain,name:topic.name,

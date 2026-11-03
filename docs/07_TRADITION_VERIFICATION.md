@@ -33,7 +33,7 @@
 - 장 칼뱅: `Institutes` II.3.5; III.3.9; III.11.2; III.24.1–2
 - 야코부스 아르미니우스: `Declaration of Sentiments` §§VI, VIII; `Works` II의 Grace and Free Will 및 Disputation 48
 - 카를 바르트: `Church Dogmatics` II/2 §33; `Dogmatics in Outline` chs. 18, 20, 23
-- 요안니스 지지울라스: `Being as Communion` pp. 27–49, 143–169; `Communion and Otherness` pp. 30–31; `The Locus and Role of Bishop in the Holy Eucharist` pp. 63–72
+- 요안니스 지지울라스: `Being as Communion` pp. 27–49, 143–169; `Communion and Otherness` pp. 30–31. 주교·성찬 논문은 문헌 목록에는 남기되 ‘사도적 계승’ 문항의 직접 근거로는 사용하지 않는다.
 - 위르겐 몰트만: `The Crucified God` ch. 6; `Theology of Hope` Introduction §1; `The Coming of God` ch. 1; `The Realism of Hope` pp. 149–155
 - N. T. 라이트: `Jesus’ Resurrection and Christian Origins`; `Creation and Covenant`; `Justification: The Biblical Basis and Its Relevance for Contemporary Evangelicalism`
 

@@ -22,3 +22,13 @@
 - Westminster Confession of Faith: https://wts.edu/wcf
 - Church of the Nazarene, Articles of Faith: https://nazarene.org/what-we-believe/
 
+## 신학자 원전 대조
+
+2026-11-03에 다음 세 인물은 서로 다른 원전 구절 3곳 이상을 문항 claim과 연결했다.
+
+- 존 웨슬리: Sermon 5, Sermon 85, `A Plain Account of Christian Perfection` §§17, 26
+- 장 칼뱅: `Institutes` II.3.5; III.3.9; III.11.2; III.24.1–2
+- 야코부스 아르미니우스: `Declaration of Sentiments` §§VI, VIII; `Works` II의 Grace and Free Will 및 Disputation 48
+
+신학자 비교는 확인된 구절의 같은 방향·다른 방향만 표시한다. 인물 전체 사상과의 동일성, 영향 관계, 소속을 판단하지 않는다. 아우구스티누스·아퀴나스·루터·바르트·지지울라스·몰트만·N. T. 라이트는 정확한 판본과 서로 다른 원전 구절 3곳 이상이 확보될 때까지 보류한다.
+

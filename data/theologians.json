@@ -30,28 +30,46 @@
     "id": "john_calvin",
     "name_ko": "장 칼뱅",
     "works_to_verify": "Institutes of the Christian Religion",
-    "claim_stances": [],
-    "status": "unverified_primary_text",
-    "can_auto_rank": false,
-    "disclaimer": "문장·원전 구절과 시대별 입장을 직접 검증하기 전까지 자동 유사도 표시 금지."
+    "claim_stances": [
+      {"claim_id":"H03.claim2","stance":1,"source_id":"CALVIN_INST","paragraph":"Institutes II.3.5"},
+      {"claim_id":"H04.claim1","stance":1,"source_id":"CALVIN_INST","paragraph":"Institutes III.24.1","weight":3},
+      {"claim_id":"H04.claim3","stance":-1,"source_id":"CALVIN_INST","paragraph":"Institutes III.24.1–2","weight":3},
+      {"claim_id":"H05.claim1","stance":1,"source_id":"CALVIN_INST","paragraph":"Institutes III.11.2"},
+      {"claim_id":"H06.claim1","stance":-1,"source_id":"CALVIN_INST","paragraph":"Institutes III.3.9","weight":2},
+      {"claim_id":"H06.claim2","stance":1,"source_id":"CALVIN_INST","paragraph":"Institutes III.3.9"}
+    ],
+    "status": "approved_clause_level",
+    "can_auto_rank": true,
+    "disclaimer": "『기독교강요』의 확인된 구절과 현재 응답의 부분적 접점만 표시한다. 칼뱅의 전체 사상과 동일하다는 뜻이 아니다."
   },
   {
     "id": "jacobus_arminius",
     "name_ko": "야코부스 아르미니우스",
     "works_to_verify": "Declaration of Sentiments; Works",
-    "claim_stances": [],
-    "status": "unverified_primary_text",
-    "can_auto_rank": false,
-    "disclaimer": "문장·원전 구절과 시대별 입장을 직접 검증하기 전까지 자동 유사도 표시 금지."
+    "claim_stances": [
+      {"claim_id":"C01.claim1","stance":1,"source_id":"ARMINIUS_WORKS","paragraph":"Declaration of Sentiments §VIII"},
+      {"claim_id":"H03.claim2","stance":1,"source_id":"ARMINIUS_WORKS","paragraph":"Works II, Grace and Free Will §§I–II"},
+      {"claim_id":"H04.claim3","stance":1,"source_id":"ARMINIUS_WORKS","paragraph":"Declaration of Sentiments §VI","weight":3},
+      {"claim_id":"H05.claim1","stance":1,"source_id":"ARMINIUS_WORKS","paragraph":"Works II, Disputation 48 §§II–VIII"}
+    ],
+    "status": "approved_clause_level",
+    "can_auto_rank": true,
+    "disclaimer": "『감정 선언』과 논제집의 확인된 구절만 비교한다. 후기 알미니안주의 전체와 동일하다는 뜻이 아니다."
   },
   {
     "id": "john_wesley",
     "name_ko": "존 웨슬리",
     "works_to_verify": "A Plain Account of Christian Perfection; Sermons",
-    "claim_stances": [],
-    "status": "unverified_primary_text",
-    "can_auto_rank": false,
-    "disclaimer": "문장·원전 구절과 시대별 입장을 직접 검증하기 전까지 자동 유사도 표시 금지."
+    "claim_stances": [
+      {"claim_id":"H03.claim2","stance":1,"source_id":"WESLEY_WORKS","paragraph":"Sermon 85, II.1–4"},
+      {"claim_id":"H04.claim3","stance":1,"source_id":"WESLEY_WORKS","paragraph":"Sermon 85, III.4–7","weight":3},
+      {"claim_id":"H05.claim1","stance":1,"source_id":"WESLEY_WORKS","paragraph":"Sermon 5, II.5; IV.8–9"},
+      {"claim_id":"H06.claim1","stance":1,"source_id":"WESLEY_WORKS","paragraph":"A Plain Account §26","weight":3},
+      {"claim_id":"H06.claim2","stance":1,"source_id":"WESLEY_WORKS","paragraph":"A Plain Account §§17, 26"}
+    ],
+    "status": "approved_clause_level",
+    "can_auto_rank": true,
+    "disclaimer": "설교 5·85와 『그리스도인의 완전에 관한 평이한 해설』의 확인된 구절만 비교한다. 웨슬리 전체 사상과 동일하다는 뜻이 아니다."
   },
   {
     "id": "karl_barth",

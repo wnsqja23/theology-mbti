@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "verified_at": "2026-11-03",
   "methodology": "공식 웹 문서·공식 재현 원전의 본문 및 식별 조항을 사람이 읽을 수 있는 웹 도구로 확인. AI 보조 문헌 감사이며 신학 전문가 승인·측정학 검증 아님. 시드 파일은 변경하지 않음.",
   "sources": [
@@ -534,6 +534,48 @@
       "primary_or_secondary": "official_teaching",
       "clauses": [],
       "caveat": "공식 Holy Eucharist 본문 접근은 확인했다. 서방의 실체변화/상징 분류에 직접 환원하는 조항 매핑은 보류한다."
+    },
+    {
+      "source_id": "WESLEY_WORKS",
+      "status": "verified_clause",
+      "url": "https://wesley.nnu.edu/john-wesley/",
+      "verified_url": "https://wesley.nnu.edu/john-wesley/a-plain-account-of-christian-perfection/",
+      "issuing_body": "Wesley Center Online, Northwest Nazarene University",
+      "title": "The Works of John Wesley",
+      "edition_listed": "Thomas Jackson 1872 edition; Wesley 1777 revision",
+      "verified_at": "2026-11-03",
+      "reviewer": "AI-assisted documentary audit; no human expert sign-off",
+      "primary_or_secondary": "primary_text_digital_reproduction",
+      "clauses": [],
+      "caveat": "설교 5·85와 A Plain Account의 명시된 절을 확인했다. 인물 전체 사상이나 후기 웨슬리안 전통의 자동 판정은 아니다."
+    },
+    {
+      "source_id": "CALVIN_INST",
+      "status": "verified_clause",
+      "url": "https://www.ccel.org/ccel/calvin/institutes/",
+      "verified_url": "https://www.ccel.org/ccel/calvin/institutes/",
+      "issuing_body": "Christian Classics Ethereal Library",
+      "title": "John Calvin, Institutes of the Christian Religion",
+      "edition_listed": "Henry Beveridge translation, digital edition",
+      "verified_at": "2026-11-03",
+      "reviewer": "AI-assisted documentary audit; no human expert sign-off",
+      "primary_or_secondary": "primary_text_digital_reproduction",
+      "clauses": [],
+      "caveat": "『기독교강요』의 명시된 책·장·절을 확인했다. 칼뱅의 저작 전체와 시대별 강조를 하나의 점수로 환원하지 않는다."
+    },
+    {
+      "source_id": "ARMINIUS_WORKS",
+      "status": "verified_clause",
+      "url": "https://www.ccel.org/ccel/arminius/works1/",
+      "verified_url": "https://www.ccel.org/ccel/arminius/works1.all.html",
+      "issuing_body": "Christian Classics Ethereal Library",
+      "title": "The Works of James Arminius, Volumes 1–2",
+      "edition_listed": "James Nichols translation, digital edition",
+      "verified_at": "2026-11-03",
+      "reviewer": "AI-assisted documentary audit; no human expert sign-off",
+      "primary_or_secondary": "primary_text_digital_reproduction",
+      "clauses": [],
+      "caveat": "Declaration of Sentiments와 신학 논제의 명시된 구절을 확인했다. 후기 알미니안주의 전체와 동일시하지 않는다."
     }
   ],
   "creedal_evidence": [
@@ -671,7 +713,7 @@
   },
   "findings": [
     "108개 프로필 claim은 각각 단일 문항이다.",
-    "웨스트민스터 신앙고백 기준 개혁파와 나사렛교회 기준 웨슬리안 성결의 공통 10개 조항을 승인했다. 나머지 9개 전통과 10명 신학자는 원전 검수 대기이다.",
+    "웨스트민스터 신앙고백 기준 개혁파와 나사렛교회 기준 웨슬리안 성결의 공통 10개 조항을 승인했다. 존 웨슬리·장 칼뱅·야코부스 아르미니우스는 각 3개 이상의 원전 대조를 승인했으며, 나머지 7명은 원전 검수 대기이다.",
     "모든 claim_links는 provisional_semantic_link 상태이다.",
     "분기 질문은 semantic trigger 조건이 없어 점수에 합산하지 않고 선택 탐구로만 제공한다.",
     "창조 고백은 설계 설명에 있으나 실제 K01–K12에는 독립 창조 문항이 없다. 문항 추가는 편집 승인 필요."

@@ -178,5 +178,35 @@
     "type": "teaching",
     "status": "link_checked_2026_10_20",
     "caveat": "Orthodox eucharistic teaching: real presence and mystery are not reducible to transubstantiation or bare symbolism."
+  },
+  {
+    "id": "WESLEY_WORKS",
+    "title": "The Works of John Wesley — Sermons and A Plain Account of Christian Perfection",
+    "issuer": "Wesley Center Online, Northwest Nazarene University",
+    "edition": "Thomas Jackson 1872 edition; Wesley 1777 revision",
+    "url": "https://wesley.nnu.edu/john-wesley/",
+    "type": "primary_text",
+    "status": "passages_checked_2026_11_03",
+    "caveat": "역사적 원전의 디지털 판본. 확인된 설교·절만 신학자 비교에 사용한다."
+  },
+  {
+    "id": "CALVIN_INST",
+    "title": "John Calvin, Institutes of the Christian Religion",
+    "issuer": "Christian Classics Ethereal Library",
+    "edition": "Henry Beveridge translation, digital edition",
+    "url": "https://www.ccel.org/ccel/calvin/institutes/",
+    "type": "primary_text",
+    "status": "passages_checked_2026_11_03",
+    "caveat": "영역별 입장 비교에는 명시한 책·장·절만 사용하며 칼뱅 사상 전체의 동일성을 뜻하지 않는다."
+  },
+  {
+    "id": "ARMINIUS_WORKS",
+    "title": "The Works of James Arminius, Volumes 1–2",
+    "issuer": "Christian Classics Ethereal Library",
+    "edition": "James Nichols translation, digital edition",
+    "url": "https://www.ccel.org/ccel/arminius/works1/",
+    "type": "primary_text",
+    "status": "passages_checked_2026_11_03",
+    "caveat": "Declaration of Sentiments와 신학 논제의 확인된 구절만 사용하며 후기 알미니안 전통 전체와 동일시하지 않는다."
   }
 ]

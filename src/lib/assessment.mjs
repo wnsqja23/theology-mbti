@@ -219,15 +219,22 @@ export function compareTheologians(theologians, claimSummaries, options = {}) {
     const summaries = new Map(claimSummaries.map(summary => [summary.claimId, summary]));
     const observations = verified.filter(stance => {
       const summary = summaries.get(stance.claim_id);
-      return summary && summary.evidenceCount >= 2 && summary.answeredCoverage >= .6 &&
-        ['observed_support', 'observed_opposition', 'neutral'].includes(summary.status);
+      return summary && summary.evidenceCount >= 1 && summary.answeredCoverage >= .6 &&
+        ['single_item', 'observed_support', 'observed_opposition', 'neutral'].includes(summary.status);
     });
     const canCompare = theologian.can_auto_rank && theologian.status === 'approved_clause_level' && passages.size >= 3;
+    const evidence=canCompare ? observations.map(stance => {
+      const observedSupport=summaries.get(stance.claim_id).support;
+      return {...stance,observedSupport,relation:observedSupport===0||stance.stance===0?'neutral':Math.sign(observedSupport)===Math.sign(stance.stance)?'same_direction':'different_direction'};
+    }) : [];
     return {
       theologianId: theologian.id,
       status: !canCompare ? 'not_verified' : observations.length < 3 ? 'insufficient_data' : 'partial_affinity',
       scope: 'verified_passages_only',
-      evidence: canCompare ? observations.map(stance => ({ ...stance, observedSupport: summaries.get(stance.claim_id).support })) : [],
+      evidence,
+      matchingClaimIds:evidence.filter(value=>value.relation==='same_direction').map(value=>value.claim_id),
+      contrastingClaimIds:evidence.filter(value=>value.relation==='different_direction').map(value=>value.claim_id),
+      neutralClaimIds:evidence.filter(value=>value.relation==='neutral').map(value=>value.claim_id),
       similarity: null,
     };
   });

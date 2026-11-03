@@ -208,5 +208,75 @@
     "type": "primary_text",
     "status": "passages_checked_2026_11_03",
     "caveat": "Declaration of Sentiments와 신학 논제의 확인된 구절만 사용하며 후기 알미니안 전통 전체와 동일시하지 않는다."
+  },
+  {
+    "id": "AUGUSTINE_WORKS",
+    "title": "Augustine, On the Trinity; On Nature and Grace; On Grace and Free Will",
+    "issuer": "New Advent, Church Fathers digital edition",
+    "edition": "Nicene and Post-Nicene Fathers, First Series, English digital reproduction",
+    "url": "https://www.newadvent.org/fathers/",
+    "type": "primary_text",
+    "status": "passages_checked_2026_11_03",
+    "caveat": "영문 번역 원전의 명시된 책·장만 사용한다. 저작 시기와 논쟁 문맥을 분리해 읽는다."
+  },
+  {
+    "id": "AQUINAS_SUMMA",
+    "title": "Thomas Aquinas, Summa Theologiae",
+    "issuer": "New Advent digital edition",
+    "edition": "Fathers of the English Dominican Province translation, 1920",
+    "url": "https://www.newadvent.org/summa/",
+    "type": "primary_text",
+    "status": "passages_checked_2026_11_03",
+    "caveat": "문답의 objection·sed contra·responsio 전체 문맥을 대조했으며 명시한 quaestio와 articulus만 사용한다."
+  },
+  {
+    "id": "LUTHER_WORKS",
+    "title": "Martin Luther, The Bondage of the Will; Commentary on Galatians; Disputation on Indulgences",
+    "issuer": "Christian Classics Ethereal Library / Oxford Taylor Editions",
+    "edition": "Henry Cole and Theodore Graebner translations; Oxford digital edition of the 95 Theses",
+    "url": "https://www.ccel.org/ccel/luther/",
+    "type": "primary_text",
+    "status": "passages_checked_2026_11_03",
+    "caveat": "서로 다른 시기의 세 저작에서 명시된 절만 사용한다. 번역 차이와 논쟁적 수사를 루터교 전체 입장으로 확대하지 않는다."
+  },
+  {
+    "id": "BARTH_PRIMARY",
+    "title": "Karl Barth, Church Dogmatics II/2 and Dogmatics in Outline",
+    "issuer": "T&T Clark / SCM Press; permissioned excerpt and digitized edition metadata",
+    "edition": "G. W. Bromiley et al.; G. T. Thomson translations",
+    "url": "https://www.presenttruthmag.com/archive/XXVII/27-6.htm",
+    "type": "primary_text",
+    "status": "passages_checked_2026_11_03",
+    "caveat": "저작권이 있는 현대 저작은 출판 허가 발췌와 판본·쪽수로 확인했다. 『교회교의학』 전체를 공개본처럼 취급하지 않는다."
+  },
+  {
+    "id": "ZIZIOULAS_PRIMARY",
+    "title": "John D. Zizioulas, Being as Communion; Communion and Otherness; The Locus and Role of Bishop in the Holy Eucharist",
+    "issuer": "St Vladimir’s Seminary Press / T&T Clark / Sabornost; John Zizioulas Foundation",
+    "edition": "1985; 2006; Sabornost 11 (2017)",
+    "url": "https://zizioulas.org/library/bibliography/",
+    "type": "primary_text",
+    "status": "passages_checked_2026_11_03",
+    "caveat": "재단이 식별한 저서 구절과 저자 명의 학술논문을 대조했다. 후대 해설은 판본 확인용으로만 사용했다."
+  },
+  {
+    "id": "MOLTMANN_PRIMARY",
+    "title": "Jürgen Moltmann, The Crucified God; Theology of Hope; The Coming of God; The Realism of Hope",
+    "issuer": "Fortress Press / Augsburg Fortress / Concordia Seminary",
+    "edition": "English editions and publisher-authorized chapter excerpts",
+    "url": "https://ms.augsburgfortress.org/downloads/9780800699895_Ch1.pdf",
+    "type": "primary_text",
+    "status": "passages_checked_2026_11_03",
+    "caveat": "출판사 공개 발췌와 저자 논문을 사용한다. 고난받는 하나님·새 창조에 관한 확인 구절을 저작 전체로 일반화하지 않는다."
+  },
+  {
+    "id": "NTWRIGHT_PRIMARY",
+    "title": "N. T. Wright, essays on resurrection, creation, covenant, and justification",
+    "issuer": "NTWrightPage, author archive",
+    "edition": "Author essays and lectures, digital archive",
+    "url": "https://ntwrightpage.com/",
+    "type": "primary_text",
+    "status": "passages_checked_2026_11_03",
+    "caveat": "저자 명의 논문·강연의 식별 가능한 문단만 사용한다. 바울 새 관점 내부의 세부 논쟁을 단일 점수로 환원하지 않는다."
   }
 ]

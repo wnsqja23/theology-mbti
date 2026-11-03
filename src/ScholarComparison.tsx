@@ -11,10 +11,10 @@ export default function ScholarComparison({report}:any){
    <h3>{scholar.name_ko}</h3>
    <p>같은 방향 {result.matchingClaimIds.length}개 · 다른 방향 {result.contrastingClaimIds.length}개 · 유보 {result.neutralClaimIds.length}개</p>
    <div className="comparison-bar" aria-label={`${scholar.name_ko}, 같은 방향 ${result.matchingClaimIds.length}개`}><span style={{width:`${result.evidence.length?result.matchingClaimIds.length/result.evidence.length*100:0}%`}}/></div>
-   <details><summary>대조한 원전 구절</summary>{result.evidence.map((e:any)=><p key={`${e.source_id}-${e.paragraph}`}><b>{e.paragraph}</b> · {e.relation==='same_direction'?'같은 방향':e.relation==='different_direction'?'다른 방향':'유보'}<br/><small>{report.items.find((item:any)=>item.claim_id===e.claim_id)?.statement}</small></p>)}</details>
+   <details><summary>대조한 원전 구절</summary>{result.evidence.map((e:any)=><p key={`${e.source_id}-${e.paragraph}`}>{e.url?<a href={e.url} target="_blank" rel="noreferrer"><b>{e.paragraph}</b> ↗</a>:<b>{e.paragraph}</b>} · {e.relation==='same_direction'?'같은 방향':e.relation==='different_direction'?'다른 방향':'유보'}<br/><small>{report.items.find((item:any)=>item.claim_id===e.claim_id)?.statement}</small></p>)}</details>
    {sourceIds.map((id:any)=>{const source=report.sources.find((s:any)=>s.id===id);return source&&<a key={id} href={source.url} target="_blank" rel="noreferrer">{source.title} ↗</a>})}
   </article>})}</div>}
   <p className="comparison-caveat">접점 수는 확률이나 “그 신학자와 같다”는 점수가 아닙니다. 같은 사람의 저작에서도 주제와 시기에 따라 강조가 달라질 수 있습니다.</p>
-  <details className="result-domain"><summary>나머지 신학자 원전 검토 현황</summary>{pending.map((t:any)=><p key={t.id}><b>{t.name_ko}</b> · 보류 — 다음 원전의 정확한 판본과 구절 3곳 이상이 필요합니다: {t.works_to_verify}</p>)}</details>
+  {pending.length>0&&<details className="result-domain"><summary>나머지 신학자 원전 검토 현황</summary>{pending.map((t:any)=><p key={t.id}><b>{t.name_ko}</b> · 보류 — 다음 원전의 정확한 판본과 구절 3곳 이상이 필요합니다: {t.works_to_verify}</p>)}</details>}
  </section>;
 }

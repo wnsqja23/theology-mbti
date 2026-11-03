@@ -1,5 +1,5 @@
 {
-  "version": "1.2",
+  "version": "1.3",
   "verified_at": "2026-11-03",
   "methodology": "공식 웹 문서·공식 재현 원전의 본문 및 식별 조항을 사람이 읽을 수 있는 웹 도구로 확인. AI 보조 문헌 감사이며 신학 전문가 승인·측정학 검증 아님. 시드 파일은 변경하지 않음.",
   "sources": [
@@ -576,6 +576,104 @@
       "primary_or_secondary": "primary_text_digital_reproduction",
       "clauses": [],
       "caveat": "Declaration of Sentiments와 신학 논제의 명시된 구절을 확인했다. 후기 알미니안주의 전체와 동일시하지 않는다."
+    },
+    {
+      "source_id": "AUGUSTINE_WORKS",
+      "status": "verified_clause",
+      "url": "https://www.newadvent.org/fathers/",
+      "verified_url": "https://www.newadvent.org/fathers/130101.htm",
+      "issuing_body": "New Advent, Church Fathers digital edition",
+      "title": "Augustine, selected anti-Pelagian and Trinitarian works",
+      "edition_listed": "Nicene and Post-Nicene Fathers, First Series",
+      "verified_at": "2026-11-03",
+      "reviewer": "AI-assisted documentary audit; no human expert sign-off",
+      "primary_or_secondary": "primary_text_digital_reproduction",
+      "clauses": [],
+      "caveat": "On the Trinity I, On Nature and Grace, On Grace and Free Will의 명시된 장을 대조했다. 시대별 논쟁 문맥을 인물 전체의 단일 입장으로 환원하지 않는다."
+    },
+    {
+      "source_id": "AQUINAS_SUMMA",
+      "status": "verified_clause",
+      "url": "https://www.newadvent.org/summa/",
+      "verified_url": "https://www.newadvent.org/summa/2109.htm",
+      "issuing_body": "New Advent digital edition",
+      "title": "Thomas Aquinas, Summa Theologiae",
+      "edition_listed": "Fathers of the English Dominican Province translation, 1920",
+      "verified_at": "2026-11-03",
+      "reviewer": "AI-assisted documentary audit; no human expert sign-off",
+      "primary_or_secondary": "primary_text_digital_reproduction",
+      "clauses": [],
+      "caveat": "I–II q.109·113, II–II q.184, III q.62·75의 responsio와 반론 응답 문맥을 대조했다. 문답 제목만으로 점수화하지 않았다."
+    },
+    {
+      "source_id": "LUTHER_WORKS",
+      "status": "verified_clause",
+      "url": "https://www.ccel.org/ccel/luther/",
+      "verified_url": "https://ccel.org/ccel/luther/galatians.all.html",
+      "issuing_body": "Christian Classics Ethereal Library / Oxford Taylor Editions",
+      "title": "Martin Luther, selected works",
+      "edition_listed": "English digital editions of The Bondage of the Will, Galatians, and the 95 Theses",
+      "verified_at": "2026-11-03",
+      "reviewer": "AI-assisted documentary audit; no human expert sign-off",
+      "primary_or_secondary": "primary_text_digital_reproduction",
+      "clauses": [],
+      "caveat": "세 저작의 명시된 절을 각각 확인했다. 초기 논제와 후기 논쟁 저작을 하나의 시기처럼 취급하지 않는다."
+    },
+    {
+      "source_id": "BARTH_PRIMARY",
+      "status": "verified_clause",
+      "url": "https://www.presenttruthmag.com/archive/XXVII/27-6.htm",
+      "verified_url": "https://books.google.com/books?id=Ilf0pKC9VnMC",
+      "issuing_body": "T&T Clark / SCM Press",
+      "title": "Karl Barth, Church Dogmatics II/2 and Dogmatics in Outline",
+      "edition_listed": "Authorized excerpt; G. T. Thomson English edition",
+      "verified_at": "2026-11-03",
+      "reviewer": "AI-assisted documentary audit; no human expert sign-off",
+      "primary_or_secondary": "primary_text_authorized_excerpt",
+      "clauses": [],
+      "caveat": "CD II/2의 허가된 발췌와 Dogmatics in Outline의 장·쪽수를 대조했다. 저작권 본문 전체를 공개 원문으로 가장하지 않는다."
+    },
+    {
+      "source_id": "ZIZIOULAS_PRIMARY",
+      "status": "verified_clause",
+      "url": "https://zizioulas.org/library/bibliography/",
+      "verified_url": "https://casopis.sabornost.org/files/sabornost_XI_2017.pdf",
+      "issuing_body": "John Zizioulas Foundation / Sabornost",
+      "title": "John D. Zizioulas, selected books and article",
+      "edition_listed": "Being as Communion (1985); Communion and Otherness (2006); Sabornost 11 (2017)",
+      "verified_at": "2026-11-03",
+      "reviewer": "AI-assisted documentary audit; no human expert sign-off",
+      "primary_or_secondary": "primary_text_and_author_bibliography",
+      "clauses": [],
+      "caveat": "재단 서지·인용문과 저자 명의 논문을 대조했다. 정교회 전체의 교회론을 한 개인 저작과 동일시하지 않는다."
+    },
+    {
+      "source_id": "MOLTMANN_PRIMARY",
+      "status": "verified_clause",
+      "url": "https://ms.augsburgfortress.org/downloads/9780800699895_Ch1.pdf",
+      "verified_url": "https://scholar.csl.edu/ctm/vol40/iss1/13/",
+      "issuing_body": "Augsburg Fortress / Concordia Seminary",
+      "title": "Jürgen Moltmann, selected books and article",
+      "edition_listed": "Publisher excerpts and author article",
+      "verified_at": "2026-11-03",
+      "reviewer": "AI-assisted documentary audit; no human expert sign-off",
+      "primary_or_secondary": "primary_text_authorized_excerpt",
+      "clauses": [],
+      "caveat": "Theology of Hope 공개 장, The Realism of Hope 원문, 저서의 식별 쪽수를 대조했다. 고난·희망·새 창조를 몰트만 전체 신학과 동일시하지 않는다."
+    },
+    {
+      "source_id": "NTWRIGHT_PRIMARY",
+      "status": "verified_clause",
+      "url": "https://ntwrightpage.com/",
+      "verified_url": "https://ntwrightpage.com/2016/07/12/jesus-resurrection-and-christian-origins/",
+      "issuing_body": "NTWrightPage author archive",
+      "title": "N. T. Wright, selected essays and lectures",
+      "edition_listed": "Author archive digital texts",
+      "verified_at": "2026-11-03",
+      "reviewer": "AI-assisted documentary audit; no human expert sign-off",
+      "primary_or_secondary": "primary_text_author_archive",
+      "clauses": [],
+      "caveat": "저자 명의의 부활·창조·언약·칭의 글에서 식별 문단을 대조했다. 새 관점 논쟁 전체를 네 주장으로 환원하지 않는다."
     }
   ],
   "creedal_evidence": [
@@ -713,7 +811,7 @@
   },
   "findings": [
     "108개 프로필 claim은 각각 단일 문항이다.",
-    "웨스트민스터 신앙고백 기준 개혁파와 나사렛교회 기준 웨슬리안 성결의 공통 10개 조항을 승인했다. 존 웨슬리·장 칼뱅·야코부스 아르미니우스는 각 3개 이상의 원전 대조를 승인했으며, 나머지 7명은 원전 검수 대기이다.",
+    "웨스트민스터 신앙고백 기준 개혁파와 나사렛교회 기준 웨슬리안 성결의 공통 10개 조항을 승인했다. 아우구스티누스부터 N. T. 라이트까지 등록된 신학자 10명 모두 각 3개 이상의 서로 다른 원전 구절을 문항 claim과 연결했다.",
     "모든 claim_links는 provisional_semantic_link 상태이다.",
     "분기 질문은 semantic trigger 조건이 없어 점수에 합산하지 않고 선택 탐구로만 제공한다.",
     "창조 고백은 설계 설명에 있으나 실제 K01–K12에는 독립 창조 문항이 없다. 문항 추가는 편집 승인 필요."

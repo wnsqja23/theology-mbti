@@ -13,7 +13,7 @@ export interface ClaimSummary {
   observations: (Observation & { itemId: string; confidence: 'low' | 'medium' | 'high' | null })[];
   domain?: string; topicId?: string; sourceIds: string[]; requiresExpertReview: boolean;
 }
-export interface ClaimStance { claim_id: string; stance: number; source_id: string; paragraph: string; weight?: number; }
+export interface ClaimStance { claim_id: string; stance: number; source_id: string; paragraph: string; weight?: number; url?: string; }
 export interface Tradition { id: string; status: string; can_auto_rank: boolean; claim_stances?: ClaimStance[]; }
 export interface VerifiedClause { claim_id: string; source_id: string; paragraph: string; status: 'approved_clause_level'; }
 export interface ComparisonOptions {
